@@ -1,0 +1,2361 @@
+{
+ "schema": 1,
+ "vocab": [
+  {
+   "id": "w_cf894d29",
+   "word": "a critical / substantial problem",
+   "ipa": "",
+   "meaning": "「a big problem」的專業說法",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_1931fe09",
+   "word": "accretion",
+   "ipa": "/əˈkriːʃən/",
+   "meaning": "逐漸累積、增生",
+   "definition": "",
+   "example": "The accretion of small savings built a large fund over time."
+  },
+  {
+   "id": "w_b01f91a9",
+   "word": "acquire top-tier educators",
+   "ipa": "",
+   "meaning": "「find good teachers」的專業說法",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_e6520fc7",
+   "word": "acquisition",
+   "ipa": "/ˌækwɪˈzɪʃən/",
+   "meaning": "取得、收購",
+   "definition": "",
+   "example": "The acquisition of the smaller firm was completed in May."
+  },
+  {
+   "id": "w_0940818a",
+   "word": "acquisition / acquire",
+   "ipa": "",
+   "meaning": "取得、收購；招攬（人才、創作者）",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_c6621802",
+   "word": "address",
+   "ipa": "",
+   "meaning": "「deal with」的專業說法",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_9128ddad",
+   "word": "advertisements",
+   "ipa": "",
+   "meaning": "廣告",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_8ecf325a",
+   "word": "agile",
+   "ipa": "",
+   "meaning": "敏捷的、能快速調整的",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_7395d019",
+   "word": "agony",
+   "ipa": "/ˈæɡəni/",
+   "meaning": "極度痛苦",
+   "definition": "",
+   "example": "He was in agony after twisting his ankle."
+  },
+  {
+   "id": "w_a729cf1e",
+   "word": "AI features",
+   "ipa": "",
+   "meaning": "AI 功能",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_128799c1",
+   "word": "align with",
+   "ipa": "",
+   "meaning": "「talk to (a team)」的專業說法",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_bfef31b6",
+   "word": "all-cash",
+   "ipa": "",
+   "meaning": "全現金的",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_7a81a830",
+   "word": "allocate",
+   "ipa": "/ˈæl.ə.keɪt/",
+   "meaning": "分配、撥出（經費、資源）",
+   "definition": "To officially give something, especially money, time, or resources, for a particular purpose",
+   "example": "The city has allocated funds to repair damaged roads and bridges."
+  },
+  {
+   "id": "w_e7b01765",
+   "word": "analyze / evaluate",
+   "ipa": "",
+   "meaning": "「look at the numbers」的專業說法",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_4abd4f9c",
+   "word": "announce",
+   "ipa": "/əˈnaʊns/",
+   "meaning": "宣布",
+   "definition": "To make something known or tell people about something officially",
+   "example": "They announced the death of their mother in the local paper."
+  },
+  {
+   "id": "w_af242b9f",
+   "word": "apprise",
+   "ipa": "",
+   "meaning": "「keep (leaders) informed」的專業說法",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_e22c758a",
+   "word": "armed groups",
+   "ipa": "",
+   "meaning": "武裝團體",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_a58fac02",
+   "word": "attrition rate",
+   "ipa": "",
+   "meaning": "流失率",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_7f15b848",
+   "word": "audience demographics",
+   "ipa": "",
+   "meaning": "受眾人口統計",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_7876153a",
+   "word": "audit",
+   "ipa": "/ˈɔːdɪt/",
+   "meaning": "稽核、查帳",
+   "definition": "",
+   "example": "The company passes an external audit every year."
+  },
+  {
+   "id": "w_aa62cc26",
+   "word": "authentic",
+   "ipa": "/ɑːˈθen.t̬ɪk/",
+   "meaning": "真實的、正牌的",
+   "definition": "If something is authentic, it is real, true, or what people say it is",
+   "example": "He was there and saw what happened, so his is the only authentic account."
+  },
+  {
+   "id": "w_134fc4f4",
+   "word": "ballpark figure",
+   "ipa": "",
+   "meaning": "粗估的數字（預算或指標）",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_0149c71b",
+   "word": "behavioral",
+   "ipa": "/bɪˈheɪvjərəl/",
+   "meaning": "行為的",
+   "definition": "",
+   "example": "The study looked at behavioral changes after the training."
+  },
+  {
+   "id": "w_93ebf4b5",
+   "word": "benchmarking",
+   "ipa": "",
+   "meaning": "對標（跟業界最佳比較）",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_2124037c",
+   "word": "benefit",
+   "ipa": "/ˈben.ə.fɪt/",
+   "meaning": "好處、益處",
+   "definition": "Helpful or good effect, or an advantage that something gives",
+   "example": "Good education provides long-term benefits for young people."
+  },
+  {
+   "id": "w_0214b4b3",
+   "word": "block",
+   "ipa": "/blɑːk/",
+   "meaning": "阻擋",
+   "definition": "To prevent movement through something",
+   "example": "A fallen tree is blocking the road."
+  },
+  {
+   "id": "w_94ae3b34",
+   "word": "bottleneck",
+   "ipa": "",
+   "meaning": "瓶頸",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_dd3e4db2",
+   "word": "brand affinity",
+   "ipa": "",
+   "meaning": "品牌好感度與信任",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_0be7a864",
+   "word": "bridge the gap",
+   "ipa": "",
+   "meaning": "彌補落差、搭起橋樑",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_c5be5b3d",
+   "word": "capability",
+   "ipa": "/ˌkeɪpəˈbɪləti/",
+   "meaning": "能力",
+   "definition": "",
+   "example": "The new system has the capability to process data faster."
+  },
+  {
+   "id": "w_fbc259d1",
+   "word": "capture",
+   "ipa": "/ˈkæp.tʃɚ/",
+   "meaning": "俘虜、捕獲",
+   "definition": "To take someone as a prisoner, or to take something into your possession, especially by force",
+   "example": "Two of the soldiers were killed and the rest were captured."
+  },
+  {
+   "id": "w_4690d8ff",
+   "word": "circuit",
+   "ipa": "/ˈsɜːrkɪt/",
+   "meaning": "巡迴路線；電路",
+   "definition": "",
+   "example": "The band is on the festival circuit this summer."
+  },
+  {
+   "id": "w_f777e3ba",
+   "word": "climate change",
+   "ipa": "",
+   "meaning": "氣候變遷",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_53adc00d",
+   "word": "co-marketing",
+   "ipa": "",
+   "meaning": "聯合行銷",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_1fc2b6ee",
+   "word": "cohort completion rate",
+   "ipa": "",
+   "meaning": "同期學員完課率",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_efac6f62",
+   "word": "collaboration",
+   "ipa": "/kəˌlæbəˈreɪʃən/",
+   "meaning": "合作",
+   "definition": "",
+   "example": "The project was a collaboration between two teams."
+  },
+  {
+   "id": "w_86d3bfb6",
+   "word": "collapse",
+   "ipa": "/kəˈlæps/",
+   "meaning": "崩潰、失敗",
+   "definition": "To be unable to continue or to stay in operation; fail",
+   "example": "Talks between management and unions collapsed today."
+  },
+  {
+   "id": "w_acc646e6",
+   "word": "compensation",
+   "ipa": "/ˌkɑːmpənˈseɪʃən/",
+   "meaning": "報酬、補償",
+   "definition": "",
+   "example": "The job offers competitive compensation."
+  },
+  {
+   "id": "w_755268f1",
+   "word": "compete",
+   "ipa": "/kəmˈpiːt/",
+   "meaning": "競爭",
+   "definition": "To try to be more successful than someone or something else",
+   "example": "It's difficult for a small shop to compete against the big supermarkets."
+  },
+  {
+   "id": "w_8efdc39d",
+   "word": "compromise our deployment schedule",
+   "ipa": "",
+   "meaning": "「make us late」的專業說法",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_01656883",
+   "word": "confidence",
+   "ipa": "/ˈkɑːn.fə.dəns/",
+   "meaning": "信心",
+   "definition": "The quality of being certain of your abilities or of having trust in people, plans, or the future",
+   "example": "He has the confidence to walk into a room of strangers and immediately start a conversation."
+  },
+  {
+   "id": "w_5567f7ef",
+   "word": "consistent signage",
+   "ipa": "",
+   "meaning": "一致的標示",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_1ceb0f94",
+   "word": "content licensing",
+   "ipa": "",
+   "meaning": "內容授權",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_f821777b",
+   "word": "contractual discrepancy",
+   "ipa": "",
+   "meaning": "合約條款不一致",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_335f89a1",
+   "word": "conversion velocity",
+   "ipa": "",
+   "meaning": "轉換速度（從接觸到簽約）",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_ef0fb55f",
+   "word": "coral reefs",
+   "ipa": "",
+   "meaning": "珊瑚礁",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_0fb3012c",
+   "word": "craftsmanship",
+   "ipa": "/ˈkræftsmənʃɪp/",
+   "meaning": "工藝、手藝",
+   "definition": "",
+   "example": "The furniture shows excellent craftsmanship."
+  },
+  {
+   "id": "w_b569765c",
+   "word": "creator onboarding",
+   "ipa": "",
+   "meaning": "創作者導入流程",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_cea07768",
+   "word": "creator retention",
+   "ipa": "",
+   "meaning": "創作者留存",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_5aea42d1",
+   "word": "cross-border operations",
+   "ipa": "",
+   "meaning": "跨國營運",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_b9a3688b",
+   "word": "cross-functional",
+   "ipa": "",
+   "meaning": "跨部門的",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_92920ac2",
+   "word": "crosswalk",
+   "ipa": "",
+   "meaning": "道路上標示的行人穿越道，車輛須停下禮讓",
+   "definition": "",
+   "example": "When a bicyclist is using a crosswalk, it is advisable to follow the pedestrian laws."
+  },
+  {
+   "id": "w_5f583551",
+   "word": "cultural",
+   "ipa": "/ˈkʌltʃərəl/",
+   "meaning": "文化的",
+   "definition": "",
+   "example": "Food is an important part of cultural identity."
+  },
+  {
+   "id": "w_227b8b33",
+   "word": "curate",
+   "ipa": "",
+   "meaning": "策展、挑選並整理",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_fbdb1805",
+   "word": "curfew",
+   "ipa": "/ˈkɜːrfjuː/",
+   "meaning": "宵禁，規定人們某個時間後（通常是夜間）必須待在室內",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_3d915d47",
+   "word": "curriculum friction",
+   "ipa": "",
+   "meaning": "課程結構太難或太雜，造成學員中途流失",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_9a660134",
+   "word": "customize",
+   "ipa": "/ˈkʌstəmaɪz/",
+   "meaning": "客製化",
+   "definition": "",
+   "example": "You can customize the dashboard to fit your needs."
+  },
+  {
+   "id": "w_354a814f",
+   "word": "data breach",
+   "ipa": "",
+   "meaning": "資料外洩",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_964ec44c",
+   "word": "decade",
+   "ipa": "",
+   "meaning": "十年",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_007e9f6b",
+   "word": "deliverables scope",
+   "ipa": "",
+   "meaning": "交付項目範圍",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_95528a0c",
+   "word": "devastate",
+   "ipa": "/ˈdev·əˌsteɪt/",
+   "meaning": "嚴重摧毀",
+   "definition": "To destroy a place or thing completely or cause great damage",
+   "example": "The town was devastated by a hurricane in 1928."
+  },
+  {
+   "id": "w_977db51c",
+   "word": "die-off",
+   "ipa": "",
+   "meaning": "大量死亡",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_cb779ee6",
+   "word": "dwindle",
+   "ipa": "",
+   "meaning": "逐漸減少，大小、數量變小或變少",
+   "definition": "",
+   "example": "The community has dwindled to a tenth of its former size in the last two years."
+  },
+  {
+   "id": "w_8ec4382b",
+   "word": "economy",
+   "ipa": "/ɪˈkɑːnəmi/",
+   "meaning": "經濟",
+   "definition": "",
+   "example": "The economy grew slowly last year."
+  },
+  {
+   "id": "w_a07d95e6",
+   "word": "ecosystem",
+   "ipa": "",
+   "meaning": "生態系",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_980a8caf",
+   "word": "editorial",
+   "ipa": "/ˌɛdəˈtɔːriəl/",
+   "meaning": "編輯的；社論",
+   "definition": "",
+   "example": "The editorial team reviews every article."
+  },
+  {
+   "id": "w_3ed32299",
+   "word": "elevate standards",
+   "ipa": "",
+   "meaning": "「make better」的專業說法",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_695188af",
+   "word": "endangered species",
+   "ipa": "",
+   "meaning": "瀕危物種",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_2c84ef5a",
+   "word": "endeavor",
+   "ipa": "/ɪnˈdɛvər/",
+   "meaning": "努力、嘗試",
+   "definition": "",
+   "example": "Starting a business is a challenging endeavor."
+  },
+  {
+   "id": "w_1da9354d",
+   "word": "escalation pathway",
+   "ipa": "",
+   "meaning": "問題往上呈報的流程",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_c28818d7",
+   "word": "evolve",
+   "ipa": "",
+   "meaning": "演進、成長",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_79d88026",
+   "word": "exceed",
+   "ipa": "/ɪkˈsiːd/",
+   "meaning": "超過",
+   "definition": "To be greater than a number or amount, or to go past an allowed limit",
+   "example": "The final cost should not exceed $5,000."
+  },
+  {
+   "id": "w_39ae89e0",
+   "word": "execute",
+   "ipa": "/ˈɛksɪkjuːt/",
+   "meaning": "執行",
+   "definition": "",
+   "example": "The team executed the plan on schedule."
+  },
+  {
+   "id": "w_bf0d88b0",
+   "word": "exhibition",
+   "ipa": "/ˌɛksɪˈbɪʃən/",
+   "meaning": "展覽",
+   "definition": "",
+   "example": "The museum opened a new photography exhibition."
+  },
+  {
+   "id": "w_89b1efec",
+   "word": "external party",
+   "ipa": "",
+   "meaning": "外部第三方",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_c9cf7b6b",
+   "word": "facilitate cross-functional alignment",
+   "ipa": "",
+   "meaning": "「talk to teams so everyone works well」的專業說法",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_95c09539",
+   "word": "fall through",
+   "ipa": "",
+   "meaning": "落空、沒成功",
+   "definition": "",
+   "example": "Our holiday plans fell through because of the storm."
+  },
+  {
+   "id": "w_9c15cdad",
+   "word": "fee",
+   "ipa": "",
+   "meaning": "為某項工作、權利或服務付的費用",
+   "definition": "",
+   "example": "We couldn't pay the lawyer's fee."
+  },
+  {
+   "id": "w_5e871091",
+   "word": "generate substantial revenue",
+   "ipa": "",
+   "meaning": "「make a lot of money」的專業說法",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_46a808cf",
+   "word": "generic",
+   "ipa": "/dʒəˈnɛrɪk/",
+   "meaning": "通用的、沒特色的",
+   "definition": "",
+   "example": "The reply sounded generic, as if it had been copied."
+  },
+  {
+   "id": "w_93740df5",
+   "word": "gentle parenting",
+   "ipa": "",
+   "meaning": "溫和教養，重視尊重、理解、耐心與溝通，而不是處罰或吼叫",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_8dd037d2",
+   "word": "global emissions",
+   "ipa": "",
+   "meaning": "全球碳排",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_56b8e6bb",
+   "word": "governance",
+   "ipa": "/ˈɡʌvərnəns/",
+   "meaning": "治理",
+   "definition": "",
+   "example": "Good governance builds public trust."
+  },
+  {
+   "id": "w_34a79622",
+   "word": "growth",
+   "ipa": "/ɡroʊθ/",
+   "meaning": "成長",
+   "definition": "An increase in the size or the importance of something",
+   "example": "The government is trying to limit population growth."
+  },
+  {
+   "id": "w_e812ba8d",
+   "word": "hacked",
+   "ipa": "",
+   "meaning": "被駭，有人未經授權進入電腦、手機、帳號或系統",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_4dcc4173",
+   "word": "hacker",
+   "ipa": "",
+   "meaning": "駭客",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_4835ba73",
+   "word": "hail from somewhere",
+   "ipa": "",
+   "meaning": "來自某地、出生於某地",
+   "definition": "",
+   "example": "Joe originally hails from Toronto."
+  },
+  {
+   "id": "w_f00096bb",
+   "word": "high-stakes",
+   "ipa": "",
+   "meaning": "風險或利害很大的",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_c9e4ef22",
+   "word": "hit a ceiling",
+   "ipa": "",
+   "meaning": "遇到天花板（薪資或晉升上限）",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_cf1062b4",
+   "word": "identify strategic growth vectors",
+   "ipa": "",
+   "meaning": "「find new opportunities」的專業說法",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_081adcd4",
+   "word": "independent media",
+   "ipa": "",
+   "meaning": "獨立媒體，不受大企業、媒體集團或政府財務與編輯控制的新聞機構或記者，對自己的報導保有完全控制權",
+   "definition": "",
+   "example": "Many people trust independent media because its journalists can report the news without corporate or political interference."
+  },
+  {
+   "id": "w_85fde0b4",
+   "word": "influencer",
+   "ipa": "/ˈɪnfluənsər/",
+   "meaning": "網紅、有影響力的人",
+   "definition": "",
+   "example": "The brand works with several influencers."
+  },
+  {
+   "id": "w_35f8b746",
+   "word": "infrastructure",
+   "ipa": "/ˈɪnfrəˌstrʌktʃər/",
+   "meaning": "基礎建設",
+   "definition": "",
+   "example": "The city is investing in transport infrastructure."
+  },
+  {
+   "id": "w_700d1460",
+   "word": "initiative",
+   "ipa": "/ɪˈnɪʃətɪv/",
+   "meaning": "倡議、主動的行動",
+   "definition": "",
+   "example": "The city launched a new recycling initiative."
+  },
+  {
+   "id": "w_06eff510",
+   "word": "integration",
+   "ipa": "/ˌɪn.t̬əˈɡreɪ.ʃən/",
+   "meaning": "整合",
+   "definition": "The process of combining two or more things into one",
+   "example": "Good teamwork depends on the integration of different skills from everyone."
+  },
+  {
+   "id": "w_50dac980",
+   "word": "intellectual property",
+   "ipa": "",
+   "meaning": "智慧財產",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_a69afe5d",
+   "word": "introduce",
+   "ipa": "/ˌɪntrəˈduːs/",
+   "meaning": "介紹、引進",
+   "definition": "",
+   "example": "The company will introduce a new feature next month."
+  },
+  {
+   "id": "w_5701af80",
+   "word": "invasive",
+   "ipa": "",
+   "meaning": "侵入性的、打擾的，以不受歡迎的方式打擾、進入或影響某人事物",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_ea213780",
+   "word": "investment",
+   "ipa": "",
+   "meaning": "投資",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_c0b65b90",
+   "word": "investor",
+   "ipa": "/ɪnˈves·tər/",
+   "meaning": "投資人",
+   "definition": "A person or group that puts its money into a business or other organization in order to make a profit",
+   "example": "Many stock-market investors who wanted to sell couldn't find any buyers."
+  },
+  {
+   "id": "w_54572a76",
+   "word": "irreversible",
+   "ipa": "/ˌɪr.əˈvɝː.sə.bəl/",
+   "meaning": "不可逆的",
+   "definition": "Not possible to change; impossible to return to a previous condition",
+   "example": "Smoking has caused irreversible damage to his lungs."
+  },
+  {
+   "id": "w_00819c0e",
+   "word": "issue",
+   "ipa": "/ˈɪs.juː/",
+   "meaning": "發布、核發（官方的東西）",
+   "definition": "To produce or provide something official",
+   "example": "The office will be issuing permits on Tuesday and Thursday mornings."
+  },
+  {
+   "id": "w_9b805ad2",
+   "word": "keep pushing on",
+   "ipa": "",
+   "meaning": "儘管困難仍持續努力",
+   "definition": "",
+   "example": "She kept pushing on with her project until it was finished."
+  },
+  {
+   "id": "w_a84a04d1",
+   "word": "keep up with",
+   "ipa": "",
+   "meaning": "跟上、維持同等水準",
+   "definition": "",
+   "example": "AI features are added to TVs to keep up with competition."
+  },
+  {
+   "id": "w_7a0b05f3",
+   "word": "launch / initiate",
+   "ipa": "",
+   "meaning": "「start (a campaign)」的專業說法",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_98aaf6b7",
+   "word": "lead nurturing",
+   "ipa": "",
+   "meaning": "經營潛在對象，在行銷漏斗每個階段維繫關係",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_065c5c29",
+   "word": "leak",
+   "ipa": "/liːk/",
+   "meaning": "洩漏",
+   "definition": "To allow secret information to become generally known",
+   "example": "He leaked the names to the press."
+  },
+  {
+   "id": "w_481725cf",
+   "word": "leverage",
+   "ipa": "",
+   "meaning": "運用（既有資源或專長）",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_82792a94",
+   "word": "localization",
+   "ipa": "",
+   "meaning": "在地化",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_30aefe9f",
+   "word": "market outreach",
+   "ipa": "/ˈmɑːrkɪt ˈaʊtriːtʃ/",
+   "meaning": "市場推廣、接觸潛在客群",
+   "definition": "",
+   "example": "Our market outreach included workshops and online events."
+  },
+  {
+   "id": "w_2d45e421",
+   "word": "market penetration",
+   "ipa": "",
+   "meaning": "市場滲透率",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_4c623b36",
+   "word": "mentor digital educators",
+   "ipa": "",
+   "meaning": "「help creators」的專業說法",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_be786cc8",
+   "word": "minister",
+   "ipa": "",
+   "meaning": "部長",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_343be850",
+   "word": "monetization",
+   "ipa": "/ˌmɑːnətəˈzeɪʃən/",
+   "meaning": "變現",
+   "definition": "",
+   "example": "The app's monetization relies mainly on subscriptions."
+  },
+  {
+   "id": "w_64d315a3",
+   "word": "monetization pipeline",
+   "ipa": "",
+   "meaning": "變現流程，創作者在平台賺到錢的整套步驟",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_8d3d6f0b",
+   "word": "move the needle",
+   "ipa": "",
+   "meaning": "帶來明顯的改變",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_d760fb0c",
+   "word": "National Active Travel Network",
+   "ipa": "",
+   "meaning": "全國主動通勤路網",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_494ec3e7",
+   "word": "NATO",
+   "ipa": "/ˈneɪtoʊ/",
+   "meaning": "北大西洋公約組織，各國為安全與防衛合作的軍事與政治聯盟",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_dc6960bc",
+   "word": "obsolete",
+   "ipa": "",
+   "meaning": "過時的，已被更新更好或更流行的東西取代而不再使用",
+   "definition": "",
+   "example": "Gas lamps became obsolete when electric lighting was invented."
+  },
+  {
+   "id": "w_5b031aa7",
+   "word": "oil jobs",
+   "ipa": "",
+   "meaning": "石油相關工作",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_e57362d5",
+   "word": "outline",
+   "ipa": "",
+   "meaning": "「tell (the directors about)」的專業說法",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_63a9b5e0",
+   "word": "outreach cadence",
+   "ipa": "",
+   "meaning": "開發信或追蹤的頻率與節奏",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_95c65348",
+   "word": "overwhelm",
+   "ipa": "/ˌoʊvərˈwɛlm/",
+   "meaning": "使不知所措、壓得喘不過氣",
+   "definition": "",
+   "example": "Too many notifications can overwhelm users."
+  },
+  {
+   "id": "w_4c1e65d6",
+   "word": "pace",
+   "ipa": "/peɪs/",
+   "meaning": "步調、速度",
+   "definition": "The speed at which someone or something moves, or with which something happens or changes",
+   "example": "When she thought she heard someone following her, she quickened her pace."
+  },
+  {
+   "id": "w_637bbe99",
+   "word": "paddy field",
+   "ipa": "",
+   "meaning": "灌水種稻的田（水稻田）",
+   "definition": "",
+   "example": "Farmers worked hard to plant green rice seedlings across the flooded paddy field."
+  },
+  {
+   "id": "w_ca44ff3b",
+   "word": "paradigm shift",
+   "ipa": "",
+   "meaning": "典範轉移",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_dc993357",
+   "word": "pay off",
+   "ipa": "",
+   "meaning": "有成果、值得",
+   "definition": "",
+   "example": "All my hard work finally paid off when I won the competition."
+  },
+  {
+   "id": "w_5257ab4b",
+   "word": "pension",
+   "ipa": "",
+   "meaning": "退休金，政府或公司定期付給因年老或生病不再工作者的錢",
+   "definition": "",
+   "example": "He won't be able to draw (= receive) his pension until he's 65."
+  },
+  {
+   "id": "w_549dfe91",
+   "word": "performance-driven payment",
+   "ipa": "",
+   "meaning": "依成效計酬",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_249a26cf",
+   "word": "phrasal verb",
+   "ipa": "",
+   "meaning": "片語動詞，動詞加上小字（介系詞或副詞），組合後產生新意思",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_9f75497d",
+   "word": "pilot project",
+   "ipa": "",
+   "meaning": "試辦專案",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_0bd781ae",
+   "word": "pique the interest",
+   "ipa": "/piːk ði ˈɪntrəst/",
+   "meaning": "引起興趣",
+   "definition": "",
+   "example": "The trailer piqued my interest in the series."
+  },
+  {
+   "id": "w_b233d57e",
+   "word": "pivot",
+   "ipa": "/ˈpɪvət/",
+   "meaning": "轉向、調整方向",
+   "definition": "",
+   "example": "The shop pivoted to online sales during the winter."
+  },
+  {
+   "id": "w_cf8bd340",
+   "word": "pivot the strategy",
+   "ipa": "",
+   "meaning": "「change the plan」的專業說法",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_b573f24e",
+   "word": "power",
+   "ipa": "/ˈpaʊ.ɚ/",
+   "meaning": "為機器提供動力",
+   "definition": "To provide a machine with energy and the ability to operate",
+   "example": "Buses and trucks are usually powered by diesel engines."
+  },
+  {
+   "id": "w_7f55aa89",
+   "word": "practical",
+   "ipa": "/ˈpræk.tɪ.kəl/",
+   "meaning": "實際可行的",
+   "definition": "Suitable for a particular purpose or situation; useful, realistic, and able to be done successfully",
+   "example": "Online learning can be a practical option for working students."
+  },
+  {
+   "id": "w_0c2b4190",
+   "word": "present a data-backed rationale",
+   "ipa": "",
+   "meaning": "「tell the boss」的專業說法",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_3074d3d1",
+   "word": "prisoner",
+   "ipa": "/ˈprɪz.ən.ɚ/",
+   "meaning": "囚犯",
+   "definition": "A person who is kept in prison as a punishment",
+   "example": "Prisoners climbed onto the prison roof to protest the conditions inside the prison."
+  },
+  {
+   "id": "w_f3f80621",
+   "word": "productive",
+   "ipa": "",
+   "meaning": "有正面成果的、有成效的",
+   "definition": "",
+   "example": "We had a very productive meeting - I felt we solved lots of problems."
+  },
+  {
+   "id": "w_0d117e42",
+   "word": "productivity",
+   "ipa": "/ˌproʊ.dəkˈtɪv.ə.t̬i/",
+   "meaning": "生產力",
+   "definition": "The ability to do as much work as possible in a particular period",
+   "example": "The new phone helps with productivity and makes work easier."
+  },
+  {
+   "id": "w_c6493755",
+   "word": "productivity tasks",
+   "ipa": "",
+   "meaning": "生產力任務",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_81d9aeea",
+   "word": "program",
+   "ipa": "",
+   "meaning": "計畫",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_dc867c03",
+   "word": "push",
+   "ipa": "/pʊʃ/",
+   "meaning": "大力推動",
+   "definition": "A strong effort or plan to introduce, promote, or expand something",
+   "example": "The school made a strong push to improve attendance."
+  },
+  {
+   "id": "w_197caeb8",
+   "word": "regional",
+   "ipa": "/ˈriːdʒənəl/",
+   "meaning": "區域的",
+   "definition": "",
+   "example": "The company has a regional office in each major city."
+  },
+  {
+   "id": "w_01f561ac",
+   "word": "release",
+   "ipa": "/rɪˈliːs/",
+   "meaning": "釋放",
+   "definition": "To give freedom or free movement to someone or something",
+   "example": "He was released from prison after serving two years of a five-year sentence."
+  },
+  {
+   "id": "w_5360447a",
+   "word": "relevant",
+   "ipa": "/ˈrel.ə.vənt/",
+   "meaning": "相關的",
+   "definition": "Connected with what is happening or being discussed",
+   "example": "Education should be relevant to the child's needs."
+  },
+  {
+   "id": "w_91ef0c16",
+   "word": "reset",
+   "ipa": "/ˌriːˈset/",
+   "meaning": "重設",
+   "definition": "To change the details of something",
+   "example": "When you next login, you will need to reset your password."
+  },
+  {
+   "id": "w_4e7a2084",
+   "word": "resolve",
+   "ipa": "",
+   "meaning": "「fix a problem」的專業說法",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_31e69adf",
+   "word": "retention",
+   "ipa": "/rɪˈtɛnʃən/",
+   "meaning": "留存、保留",
+   "definition": "",
+   "example": "The app focuses on user retention."
+  },
+  {
+   "id": "w_abf72c05",
+   "word": "revenue",
+   "ipa": "/ˈrev.ə.nuː/",
+   "meaning": "營收",
+   "definition": "The income that a government or company receives regularly",
+   "example": "Taxes provide most of the government's revenue."
+  },
+  {
+   "id": "w_0f91cc5b",
+   "word": "revenue-share tier",
+   "ipa": "",
+   "meaning": "分級分潤（業績越高比例越高）",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_61e62b21",
+   "word": "review",
+   "ipa": "/rɪˈvjuː/",
+   "meaning": "檢視、審查",
+   "definition": "To think or talk about something again, in order to make changes to it or to make a decision about it",
+   "example": "The committee is reviewing the current situation."
+  },
+  {
+   "id": "w_70fe19c1",
+   "word": "ROI",
+   "ipa": "",
+   "meaning": "投資報酬率",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_3a7ddc3f",
+   "word": "roll out",
+   "ipa": "",
+   "meaning": "推出、上線（產品）",
+   "definition": "",
+   "example": "Samsung will roll out AI features to more devices."
+  },
+  {
+   "id": "w_b06273ad",
+   "word": "scalability",
+   "ipa": "",
+   "meaning": "可擴展性",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_7845ea5d",
+   "word": "scenography",
+   "ipa": "/siːˈnɑːɡrəfi/",
+   "meaning": "舞台美術設計",
+   "definition": "",
+   "example": "The play was praised for its striking scenography."
+  },
+  {
+   "id": "w_d015cc46",
+   "word": "secure",
+   "ipa": "/səˈkjʊr/",
+   "meaning": "安全的",
+   "definition": "Able to avoid being harmed by any risk, danger, or threat",
+   "example": "Endangered species need to be kept secure from poachers."
+  },
+  {
+   "id": "w_5d4847a1",
+   "word": "security firm",
+   "ipa": "",
+   "meaning": "資安公司",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_7a9b93cf",
+   "word": "sensitive",
+   "ipa": "/ˈsen.sə.t̬ɪv/",
+   "meaning": "敏感的、需謹慎處理的",
+   "definition": "A subject, situation, etc. needs to be dealt with carefully in order to avoid upsetting people",
+   "example": "The stolen car contained military documents described as very sensitive."
+  },
+  {
+   "id": "w_cce623e0",
+   "word": "set out",
+   "ipa": "/set aʊt/",
+   "meaning": "清楚說明、陳述",
+   "definition": "To explain, describe, or present something clearly",
+   "example": "The report sets out the company's goals for the next five years."
+  },
+  {
+   "id": "w_2185c48b",
+   "word": "slow down",
+   "ipa": "",
+   "meaning": "放慢",
+   "definition": "",
+   "example": "The car slowed down when it reached the school."
+  },
+  {
+   "id": "w_de3c7380",
+   "word": "SME",
+   "ipa": "",
+   "meaning": "領域專家",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_0005b9f9",
+   "word": "speed up",
+   "ipa": "",
+   "meaning": "加快",
+   "definition": "",
+   "example": "Samsung wants to speed up AI integration."
+  },
+  {
+   "id": "w_e885aeaa",
+   "word": "stage drama",
+   "ipa": "/steɪdʒ ˈdrɑːmə/",
+   "meaning": "舞台劇",
+   "definition": "",
+   "example": "We watched a stage drama about family secrets."
+  },
+  {
+   "id": "w_caa7236c",
+   "word": "stakeholder buy-in",
+   "ipa": "",
+   "meaning": "利害關係人的支持與認可",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_17a81ff2",
+   "word": "step up",
+   "ipa": "",
+   "meaning": "加強努力、增加投入",
+   "definition": "",
+   "example": "I need to step up my practice if I want to pass the exam."
+  },
+  {
+   "id": "w_78a6f39c",
+   "word": "strategic",
+   "ipa": "/strəˈtiːdʒɪk/",
+   "meaning": "策略性的",
+   "definition": "",
+   "example": "She made a strategic decision to focus on fewer projects."
+  },
+  {
+   "id": "w_9145721b",
+   "word": "strategic alignment",
+   "ipa": "",
+   "meaning": "策略對齊",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_a9195103",
+   "word": "strategically",
+   "ipa": "/strəˈtiːdʒɪkli/",
+   "meaning": "策略性地",
+   "definition": "",
+   "example": "They strategically placed the shops near the station."
+  },
+  {
+   "id": "w_31e10e63",
+   "word": "strategy",
+   "ipa": "/ˈstræt̬.ə.dʒi/",
+   "meaning": "策略",
+   "definition": "A plan of action designed to achieve a long-term or overall goal",
+   "example": "The company changed its strategy to attract more customers."
+  },
+  {
+   "id": "w_efde9e5b",
+   "word": "streaming battle",
+   "ipa": "",
+   "meaning": "串流大戰",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_32086137",
+   "word": "subscriber",
+   "ipa": "",
+   "meaning": "訂閱者",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_dc917a77",
+   "word": "subscription",
+   "ipa": "",
+   "meaning": "訂閱",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_33375351",
+   "word": "successful",
+   "ipa": "/səkˈsɛsfəl/",
+   "meaning": "成功的",
+   "definition": "",
+   "example": "It was a successful launch."
+  },
+  {
+   "id": "w_a812ce79",
+   "word": "sunset",
+   "ipa": "/ˈsʌnˌsɛt/",
+   "meaning": "逐步停用（動詞）；日落",
+   "definition": "",
+   "example": "The company will sunset the old app next year."
+  },
+  {
+   "id": "w_c5752e60",
+   "word": "sunset a project",
+   "ipa": "",
+   "meaning": "逐步結束專案",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_5bdcd3c0",
+   "word": "support",
+   "ipa": "",
+   "meaning": "支持",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_0f810b7f",
+   "word": "synergistic",
+   "ipa": "",
+   "meaning": "有綜效的",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_5d618d77",
+   "word": "tailor",
+   "ipa": "/ˈteɪlər/",
+   "meaning": "量身訂做（動詞）",
+   "definition": "",
+   "example": "We tailor each lesson to the student's goals."
+  },
+  {
+   "id": "w_7c0ed89a",
+   "word": "take off",
+   "ipa": "",
+   "meaning": "迅速流行、起飛",
+   "definition": "",
+   "example": "Galaxy AI usage is expected to take off soon."
+  },
+  {
+   "id": "w_d48575a0",
+   "word": "the initiative was sunsetted",
+   "ipa": "",
+   "meaning": "「the project stopped」的專業說法",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_5a10139c",
+   "word": "theatrical",
+   "ipa": "/θiˈætrɪkəl/",
+   "meaning": "戲劇的、誇張做作的",
+   "definition": "",
+   "example": "The director gave the show a theatrical finish."
+  },
+  {
+   "id": "w_96733a5f",
+   "word": "Tier-1 influencer",
+   "ipa": "",
+   "meaning": "頂級網紅",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_d8c9164f",
+   "word": "Tier-1 talent",
+   "ipa": "",
+   "meaning": "頂級創作者（高觸及、高影響力）",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_c4f730b3",
+   "word": "tiered onboarding",
+   "ipa": "",
+   "meaning": "依創作者等級分層導入",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_38d545f3",
+   "word": "tipping point",
+   "ipa": "",
+   "meaning": "臨界點",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_b3f47da5",
+   "word": "travel warning",
+   "ipa": "",
+   "meaning": "旅遊警示",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_d52e7e89",
+   "word": "turn to",
+   "ipa": "",
+   "meaning": "轉而求助、使用",
+   "definition": "",
+   "example": "Users turn to AI for translation or image editing."
+  },
+  {
+   "id": "w_79b47e22",
+   "word": "U.S. forces",
+   "ipa": "",
+   "meaning": "美軍",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_78bd637d",
+   "word": "urge",
+   "ipa": "/ɝːdʒ/",
+   "meaning": "強烈敦促",
+   "definition": "To strongly advise or try to persuade someone to do a particular thing",
+   "example": "Police urged continued vigilance in the fight against crime."
+  },
+  {
+   "id": "w_c629ba0e",
+   "word": "usage",
+   "ipa": "/ˈju·sɪdʒ/",
+   "meaning": "使用量、用法",
+   "definition": "The use of something, the way in which it is used",
+   "example": "The study tracks credit card usage over the last ten years."
+  },
+  {
+   "id": "w_251aff8a",
+   "word": "users' data",
+   "ipa": "",
+   "meaning": "使用者資料",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_bd41e2f3",
+   "word": "value alignment",
+   "ipa": "",
+   "meaning": "價值觀契合",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_7be21127",
+   "word": "value prop",
+   "ipa": "",
+   "meaning": "價值主張，平台對創作者或夥伴提供的獨特好處",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_a9b57c12",
+   "word": "value proposition",
+   "ipa": "",
+   "meaning": "價值主張",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_428994d8",
+   "word": "value stream",
+   "ipa": "",
+   "meaning": "價值流（從生產到交付的步驟）",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_86f73f0a",
+   "word": "vanity metrics",
+   "ipa": "",
+   "meaning": "虛榮指標（按讚、觀看數，不反映實際成效）",
+   "definition": "",
+   "example": ""
+  },
+  {
+   "id": "w_9fdcb2f4",
+   "word": "vendor",
+   "ipa": "/ˈvɛndər/",
+   "meaning": "供應商、小販",
+   "definition": "",
+   "example": "We buy supplies from a local vendor."
+  },
+  {
+   "id": "w_c692273d",
+   "word": "version",
+   "ipa": "/ˈvɝː.ʒən/",
+   "meaning": "版本",
+   "definition": "A particular form of something that varies from other forms of the same thing",
+   "example": "They're producing several versions of the TV commercial to see which one works best."
+  },
+  {
+   "id": "w_3bfa417f",
+   "word": "vigilance",
+   "ipa": "",
+   "meaning": "警覺，為了察覺可能的危險而更加留意",
+   "definition": "",
+   "example": "The police said that it was thanks to the vigilance of a neighbor that the fire was discovered before it could spread."
+  },
+  {
+   "id": "w_59c2c326",
+   "word": "vigilant",
+   "ipa": "",
+   "meaning": "警覺的，非常小心、保持留意，才能發現危險或問題",
+   "definition": "",
+   "example": ""
+  }
+ ],
+ "errors": [
+  {
+   "id": "e_b3339792",
+   "wrong": "So it's a trip",
+   "correct": "So it's a journey",
+   "types": [
+    "用字"
+   ],
+   "note": "用字（更自然說法）"
+  },
+  {
+   "id": "e_9860615e",
+   "wrong": "So I think I like the upper one more now",
+   "correct": "So I believe I like the upper one more now",
+   "types": [
+    "用字"
+   ],
+   "note": "用字（更自然說法）"
+  },
+  {
+   "id": "e_959973d0",
+   "wrong": "I have to highlight this one",
+   "correct": "I have to emphasize this one",
+   "types": [
+    "用字"
+   ],
+   "note": "用字（更自然說法）"
+  },
+  {
+   "id": "e_66b03619",
+   "wrong": "I could validate quickly",
+   "correct": "I could confirm quickly",
+   "types": [
+    "用字"
+   ],
+   "note": "用字（更自然說法）"
+  },
+  {
+   "id": "e_0d10eba1",
+   "wrong": "I even think he's here",
+   "correct": "I even believe he's here",
+   "types": [
+    "用字"
+   ],
+   "note": "用字（更自然說法）"
+  },
+  {
+   "id": "e_6e5c7d5d",
+   "wrong": "Oh, it's the first conversation",
+   "correct": "Oh, it's the initial conversation",
+   "types": [
+    "用字"
+   ],
+   "note": "用字（更自然說法）"
+  },
+  {
+   "id": "e_9a901a09",
+   "wrong": "What is the odd domain?",
+   "correct": "What is the unusual domain?",
+   "types": [
+    "用字"
+   ],
+   "note": "用字（更自然說法）"
+  },
+  {
+   "id": "e_69a0fbce",
+   "wrong": "What's going on with me?",
+   "correct": "What's happening with me?",
+   "types": [
+    "用字"
+   ],
+   "note": "用字（更自然說法）"
+  },
+  {
+   "id": "e_91c50ca7",
+   "wrong": "There are four kids walking through road.",
+   "correct": "You can see four kids using the crosswalk to cross the street.",
+   "types": [
+    "冠詞",
+    "用字"
+   ],
+   "note": "冠詞、用字自然度"
+  },
+  {
+   "id": "e_c68a3ff7",
+   "wrong": "Other children's healthy may not be so good.",
+   "correct": "Other kids might have weaker health.",
+   "types": [
+    "詞性"
+   ],
+   "note": "名詞 vs 形容詞（healthy / health）"
+  },
+  {
+   "id": "e_cf45369b",
+   "wrong": "If I raise my kids in a rural place, I will ask my kid to go to school by themselves.",
+   "correct": "If I raise my kids in a rural area, I'll let them walk to school by themselves.",
+   "types": [
+    "單複數",
+    "用字"
+   ],
+   "note": "用字搭配（rural area）、單複數一致"
+  },
+  {
+   "id": "e_c316f0b6",
+   "wrong": "I'm the kind of person like to talk, to chat, communication with others.",
+   "correct": "I'm the type of person who loves to chat with others.",
+   "types": [
+    "詞性"
+   ],
+   "note": "關係代名詞（who）、動詞 vs 名詞（communication）"
+  },
+  {
+   "id": "e_5ee1ccbc",
+   "wrong": "I'm not often see the drama or movies on Netflix or Disney, I feel it's a little waste of time.",
+   "correct": "I don't really watch movies or shows on Netflix or Disney. I feel like it's kind of a waste of time.",
+   "types": [
+    "語序"
+   ],
+   "note": "否定句與頻率副詞（not often see → don't really watch）、逗號接兩句要斷開"
+  },
+  {
+   "id": "e_0b564a68",
+   "wrong": "I feel more concentrate on movies.",
+   "correct": "I concentrate more on movies.",
+   "types": [
+    "詞性"
+   ],
+   "note": "詞性（concentrate 是動詞，不是形容詞）"
+  },
+  {
+   "id": "e_2665d81f",
+   "wrong": "More girls and woman knows more detail abut feminism.",
+   "correct": "More and more women understand what feminism is really about.",
+   "types": [
+    "主謂一致",
+    "單複數"
+   ],
+   "note": "主謂一致、單複數（woman → women）、拼字（abut → about）"
+  },
+  {
+   "id": "e_fc2d06df",
+   "wrong": "Everybody need to work hard, but there is some fortune things, so everybody need to work hard.",
+   "correct": "Hard work is essential, but you still need luck.",
+   "types": [
+    "主謂一致",
+    "用字"
+   ],
+   "note": "主謂一致（everybody needs）、重複與繞圈、用字（fortune things → luck）"
+  },
+  {
+   "id": "e_2322d372",
+   "wrong": "I need to do things to step up the goal of my work",
+   "correct": "I need to step up my efforts to reach my work goals.",
+   "types": [
+    "用字"
+   ],
+   "note": "動詞搭配（step up 的受詞是努力，不是 goal）"
+  },
+  {
+   "id": "e_de6957fb",
+   "wrong": "I feel annoying actually",
+   "correct": "I feel annoyed actually",
+   "types": [
+    "詞性"
+   ],
+   "note": "-ed / -ing 形容詞（感受用 -ed，令人覺得用 -ing）"
+  },
+  {
+   "id": "e_66809c46",
+   "wrong": "For tomorrow's meeting, I prepare 3 version slide.",
+   "correct": "For tomorrow's meeting, I prepared 3 versions of the slide.",
+   "types": [
+    "時態",
+    "單複數",
+    "用字"
+   ],
+   "note": "時態（過去式 prepared）、複數（versions）、of 的用法"
+  },
+  {
+   "id": "e_5f920f88",
+   "wrong": "The security about user's data on our platform is very sensitive so we have to protect it.",
+   "correct": "The security of users' data on our platform is very sensitive, so we have to protect it.",
+   "types": [
+    "單複數",
+    "介系詞"
+   ],
+   "note": "介系詞（security of）、所有格複數（users'）"
+  },
+  {
+   "id": "e_4dabab83",
+   "wrong": "I want to increasing my efficiency",
+   "correct": "I want to increase my efficiency",
+   "types": [
+    "時態"
+   ],
+   "note": "to + 原形動詞"
+  },
+  {
+   "id": "e_59548cbf",
+   "wrong": "our platform, we collect a lot of users' data to improve our user experience",
+   "correct": "We collect a lot of users' data in our platform to improve the user experience",
+   "types": [
+    "冠詞",
+    "用字",
+    "語序"
+   ],
+   "note": ""
+  },
+  {
+   "id": "e_6486b811",
+   "wrong": "Instagram said that security is secure but they already be reviewed",
+   "correct": "Instagram said that the security is secured and they already reviewed the situation",
+   "types": [
+    "時態",
+    "冠詞"
+   ],
+   "note": ""
+  },
+  {
+   "id": "e_283a7e48",
+   "wrong": "In town in our company, we call a big influence.",
+   "correct": "At our company, we call someone with a lot of influence a \"big influencer.\"",
+   "types": [
+    "詞性",
+    "語序"
+   ],
+   "note": "語序、詞性（influence → influencer 人的形式）"
+  },
+  {
+   "id": "e_f2adc026",
+   "wrong": "So if I could see your numbers, I could set it out.",
+   "correct": "If I could see your numbers, I could lay them out.",
+   "types": [
+    "詞性",
+    "用字"
+   ],
+   "note": "片語動詞用法（lay out）、代名詞指稱"
+  },
+  {
+   "id": "e_9dc20eb4",
+   "wrong": "In Chinese, it seems like we don't have a million word.",
+   "correct": "In Chinese, it seems like we don't have a word for \"million.\"",
+   "types": [
+    "冠詞",
+    "語序"
+   ],
+   "note": "冠詞、語序（a word for ...）"
+  },
+  {
+   "id": "e_6d329806",
+   "wrong": "I don't know what audit mean.",
+   "correct": "I don't know what \"audit\" means.",
+   "types": [
+    "主謂一致"
+   ],
+   "note": "主謂一致（audit 是第三人稱單數，動詞加 s）"
+  },
+  {
+   "id": "e_45c1fd51",
+   "wrong": "A full circle prod yeah.",
+   "correct": "A full-circle product, yeah.",
+   "types": [
+    "用字"
+   ],
+   "note": "用字完整（prod → product）、連字號"
+  },
+  {
+   "id": "e_fd304de1",
+   "wrong": "The first thing I want to improve my English.",
+   "correct": "My top priority right now is improving my English.",
+   "types": [
+    "語序"
+   ],
+   "note": "句子結構（缺動詞、to improve 接不上）"
+  },
+  {
+   "id": "e_f1ef0193",
+   "wrong": "The scientist say some warning to the world that the temperature rising as faster than before.",
+   "correct": "Scientists are warning the world that temperatures are rising faster than ever.",
+   "types": [
+    "時態",
+    "主謂一致",
+    "單複數"
+   ],
+   "note": "主謂一致與單複數（scientists）、時態（are rising）、比較級（faster than，不加 as）"
+  },
+  {
+   "id": "e_4925bde9",
+   "wrong": "I feel a little right now.",
+   "correct": "I feel a little off right now.",
+   "types": [
+    "用字"
+   ],
+   "note": "用字（feel off 表示不太舒服，缺了 off 意思不完整）"
+  },
+  {
+   "id": "e_f2904dc7",
+   "wrong": "I have a dinner today.",
+   "correct": "I'm having dinner today.",
+   "types": [
+    "時態",
+    "冠詞"
+   ],
+   "note": "冠詞（dinner 前不加 a）、時態（已排定的事用現在進行式）"
+  },
+  {
+   "id": "e_716e87ed",
+   "wrong": "I couldn't I'm pretty afraid about spicy things.",
+   "correct": "I couldn't — I'm pretty afraid of spicy food.",
+   "types": [
+    "介系詞",
+    "用字",
+    "語序"
+   ],
+   "note": "介系詞（afraid of）、斷句、用字（spicy food）"
+  },
+  {
+   "id": "e_4432e31c",
+   "wrong": "I finally buy one ticket.",
+   "correct": "I finally bought a ticket.",
+   "types": [
+    "時態",
+    "冠詞"
+   ],
+   "note": "時態（過去式 bought）、冠詞（a ticket 比 one ticket 自然）"
+  },
+  {
+   "id": "e_f64799dc",
+   "wrong": "I went to see the drama at Sunday.",
+   "correct": "I went to see the play on Sunday.",
+   "types": [
+    "介系詞",
+    "用字"
+   ],
+   "note": "介系詞（on Sunday）、用字（舞台劇用 play）"
+  },
+  {
+   "id": "e_690288eb",
+   "wrong": "It kinda little slow today, I think, the website when I log in.",
+   "correct": "I think the website's a bit slow when I log in today.",
+   "types": [
+    "語序"
+   ],
+   "note": "缺動詞 is、語序、口語用 a bit"
+  },
+  {
+   "id": "e_72cae13a",
+   "wrong": "I get off work a little late, so I have to rush to my home to join this lesson.",
+   "correct": "I got off work late, so I had to rush home to make the lesson.",
+   "types": [
+    "時態",
+    "介系詞",
+    "用字"
+   ],
+   "note": "時態（講已發生的事用過去式）、介系詞（home 前不加 to）、片語（make the lesson）"
+  },
+  {
+   "id": "e_1472ecc5",
+   "wrong": "It quite difficult.",
+   "correct": "It's quite difficult.",
+   "types": [
+    "語序"
+   ],
+   "note": "缺 be 動詞"
+  },
+  {
+   "id": "e_9b71ffd0",
+   "wrong": "I never go to Broadway yet.",
+   "correct": "I've never been to Broadway yet.",
+   "types": [
+    "時態"
+   ],
+   "note": "時態（有沒有去過用現在完成式 have been to）"
+  },
+  {
+   "id": "e_f49ddcbc",
+   "wrong": "I might say the upper one I might like more.",
+   "correct": "I'd say I prefer the upper one.",
+   "types": [
+    "語序"
+   ],
+   "note": "語序、重複用語，濃縮成自然的偏好句"
+  },
+  {
+   "id": "e_21683ba0",
+   "wrong": "So I just come back to my home.",
+   "correct": "So I just came back home.",
+   "types": [
+    "時態",
+    "介系詞"
+   ],
+   "note": "時態（過去式 came）、介系詞（home 前不加 to / my）"
+  },
+  {
+   "id": "e_c83b7c38",
+   "wrong": "What kind of knowledge in mind is the creator could teach.",
+   "correct": "What kind of knowledge does the creator have in mind to teach?",
+   "types": [
+    "時態",
+    "語序"
+   ],
+   "note": "問句語序、助動詞 does、動詞形態"
+  }
+ ],
+ "pronunciation": [
+  {
+   "id": "p_0bf41704",
+   "word": "activity",
+   "ipa": "/ækˈtɪvəti/",
+   "hint": ""
+  },
+  {
+   "id": "p_c4560ff0",
+   "word": "Aims",
+   "ipa": "/eɪmz/",
+   "hint": ""
+  },
+  {
+   "id": "p_d51f0daf",
+   "word": "Appliances",
+   "ipa": "/əˈplaɪ.ən.sɪz/",
+   "hint": ""
+  },
+  {
+   "id": "p_d2005cc2",
+   "word": "application",
+   "ipa": "/ˌæplɪˈkeɪʃən/",
+   "hint": ""
+  },
+  {
+   "id": "p_aa62cc26",
+   "word": "authentic",
+   "ipa": "/ɑːˈθen.t̬ɪk/",
+   "hint": ""
+  },
+  {
+   "id": "p_032b33cf",
+   "word": "Calmer",
+   "ipa": "/ˈkɑːrmər/",
+   "hint": ""
+  },
+  {
+   "id": "p_fbc259d1",
+   "word": "Capture",
+   "ipa": "/ˈkæptʃər/",
+   "hint": ""
+  },
+  {
+   "id": "p_00b5899c",
+   "word": "Caracas",
+   "ipa": "/kəˈrækəs/",
+   "hint": ""
+  },
+  {
+   "id": "p_2ab0591d",
+   "word": "card",
+   "ipa": "/kɑːrd/",
+   "hint": ""
+  },
+  {
+   "id": "p_4690d8ff",
+   "word": "circuit",
+   "ipa": "/ˈsɜːrkɪt/",
+   "hint": ""
+  },
+  {
+   "id": "p_f48e00ee",
+   "word": "claimed",
+   "ipa": "/kleɪmd/",
+   "hint": ""
+  },
+  {
+   "id": "p_27eddd83",
+   "word": "Clearly",
+   "ipa": "/ˈklɪrli/",
+   "hint": ""
+  },
+  {
+   "id": "p_faa75322",
+   "word": "committee",
+   "ipa": "/kəˈmɪti/",
+   "hint": ""
+  },
+  {
+   "id": "p_a797c1f7",
+   "word": "competes",
+   "ipa": "/kəmˈpiːts/",
+   "hint": ""
+  },
+  {
+   "id": "p_0fb3012c",
+   "word": "craftsmanship",
+   "ipa": "/ˈkræftsmənʃɪp/",
+   "hint": ""
+  },
+  {
+   "id": "p_fbdb1805",
+   "word": "Curfew",
+   "ipa": "/ˈkɜːrfjuː/",
+   "hint": ""
+  },
+  {
+   "id": "p_bc2c0360",
+   "word": "dealt",
+   "ipa": "/dɛlt/",
+   "hint": "delt"
+  },
+  {
+   "id": "p_90cf16d6",
+   "word": "Diesel",
+   "ipa": "/ˈdiː.zəl/",
+   "hint": ""
+  },
+  {
+   "id": "p_26d40a82",
+   "word": "Doubts",
+   "ipa": "/daʊts/",
+   "hint": ""
+  },
+  {
+   "id": "p_f0cf5470",
+   "word": "endeavors",
+   "ipa": "/ɪnˈdɛvərz/",
+   "hint": ""
+  },
+  {
+   "id": "p_360c9f80",
+   "word": "executives",
+   "ipa": "/ɪɡˈzɛkjətɪvz/",
+   "hint": ""
+  },
+  {
+   "id": "p_bf0d88b0",
+   "word": "exhibition",
+   "ipa": "/ˌɛksɪˈbɪʃən/",
+   "hint": ""
+  },
+  {
+   "id": "p_8aeff27d",
+   "word": "further",
+   "ipa": "/ˈfɜːrðər/",
+   "hint": ""
+  },
+  {
+   "id": "p_db9a022b",
+   "word": "goal",
+   "ipa": "/ɡoʊl/",
+   "hint": ""
+  },
+  {
+   "id": "p_56b8e6bb",
+   "word": "governance",
+   "ipa": "/ˈɡʌvərnəns/",
+   "hint": ""
+  },
+  {
+   "id": "p_1984337f",
+   "word": "industry",
+   "ipa": "/ˈɪndəstri/",
+   "hint": ""
+  },
+  {
+   "id": "p_35f8b746",
+   "word": "infrastructure",
+   "ipa": "/ˈɪnfrəˌstrʌktʃər/",
+   "hint": ""
+  },
+  {
+   "id": "p_06eff510",
+   "word": "Integration",
+   "ipa": "/ˌɪn.tɪˈɡreɪ.ʃən/",
+   "hint": ""
+  },
+  {
+   "id": "p_cce245fb",
+   "word": "knowledge",
+   "ipa": "/ˈnɑːlɪdʒ/",
+   "hint": ""
+  },
+  {
+   "id": "p_b28b7af6",
+   "word": "main",
+   "ipa": "/meɪn/",
+   "hint": ""
+  },
+  {
+   "id": "p_a2860750",
+   "word": "Marketing",
+   "ipa": "/ˈmɑːrkɪtɪŋ/",
+   "hint": "MAR-ki-ting"
+  },
+  {
+   "id": "p_fda522f1",
+   "word": "Mostly",
+   "ipa": "/ˈmoʊstli/",
+   "hint": ""
+  },
+  {
+   "id": "p_494ec3e7",
+   "word": "NATO",
+   "ipa": "/ˈneɪtoʊ/",
+   "hint": ""
+  },
+  {
+   "id": "p_950593b1",
+   "word": "paper",
+   "ipa": "/ˈpeɪpər/",
+   "hint": "PAY-per"
+  },
+  {
+   "id": "p_b233d57e",
+   "word": "pivot",
+   "ipa": "/ˈpɪvət/",
+   "hint": ""
+  },
+  {
+   "id": "p_bed97175",
+   "word": "plan",
+   "ipa": "/plæn/",
+   "hint": ""
+  },
+  {
+   "id": "p_4c5fd84e",
+   "word": "politics",
+   "ipa": "/ˈpɑːlətɪks/",
+   "hint": "POL-uh-tiks"
+  },
+  {
+   "id": "p_914fb82e",
+   "word": "Possession",
+   "ipa": "/pəˈzeʃən/",
+   "hint": ""
+  },
+  {
+   "id": "p_7f55aa89",
+   "word": "practical",
+   "ipa": "/ˈpræk.tɪ.kəl/",
+   "hint": ""
+  },
+  {
+   "id": "p_3345867e",
+   "word": "priority",
+   "ipa": "/praɪˈɔːrəti/",
+   "hint": ""
+  },
+  {
+   "id": "p_24c5fb14",
+   "word": "produces",
+   "ipa": "/prəˈduːsɪz/",
+   "hint": ""
+  },
+  {
+   "id": "p_7acca69b",
+   "word": "Publicly",
+   "ipa": "/ˈpʌblɪkli/",
+   "hint": ""
+  },
+  {
+   "id": "p_c045670a",
+   "word": "quarterly audit",
+   "ipa": "/ˈkwɔːrtərli ˈɔːdɪt/",
+   "hint": ""
+  },
+  {
+   "id": "p_9ba97332",
+   "word": "rural",
+   "ipa": "/ˈrʊrəl/",
+   "hint": ""
+  },
+  {
+   "id": "p_f17906ca",
+   "word": "Safer",
+   "ipa": "/ˈseɪfər/",
+   "hint": ""
+  },
+  {
+   "id": "p_abc1350f",
+   "word": "said",
+   "ipa": "/sɛd/",
+   "hint": ""
+  },
+  {
+   "id": "p_d5da64a4",
+   "word": "signage",
+   "ipa": "/ˈsaɪnɪdʒ/",
+   "hint": ""
+  },
+  {
+   "id": "p_b14eaafc",
+   "word": "strangers",
+   "ipa": "/ˈstreɪndʒərz/",
+   "hint": ""
+  },
+  {
+   "id": "p_a9195103",
+   "word": "strategically",
+   "ipa": "/strəˈtiːdʒɪkli/",
+   "hint": ""
+  },
+  {
+   "id": "p_31e10e63",
+   "word": "strategy",
+   "ipa": "/ˈstræt̬.ə.dʒi/",
+   "hint": ""
+  },
+  {
+   "id": "p_30f7a16c",
+   "word": "Technology",
+   "ipa": "/tekˈnɒl.ə.dʒi/",
+   "hint": ""
+  },
+  {
+   "id": "p_d19df7d3",
+   "word": "theater",
+   "ipa": "/ˈθiːətər/",
+   "hint": ""
+  },
+  {
+   "id": "p_beac9eac",
+   "word": "thinking",
+   "ipa": "/ˈθɪŋkɪŋ/",
+   "hint": ""
+  },
+  {
+   "id": "p_4898e18a",
+   "word": "thousands",
+   "ipa": "/ˈθaʊzəndz/",
+   "hint": ""
+  },
+  {
+   "id": "p_9fdcb2f4",
+   "word": "vendor",
+   "ipa": "/ˈvɛndər/",
+   "hint": ""
+  },
+  {
+   "id": "p_a465f978",
+   "word": "Venezuela",
+   "ipa": "/ˌvɛnəˈzweɪlə/",
+   "hint": ""
+  },
+  {
+   "id": "p_b3ae4f72",
+   "word": "women",
+   "ipa": "/ˈwɪmɪn/",
+   "hint": ""
+  }
+ ]
+}
