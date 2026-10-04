@@ -53,6 +53,13 @@ textarea{width:100%;min-height:96px;border-radius:14px;border:1px solid var(--li
 .bar i{display:block;height:100%;background:var(--accent)}
 .center{text-align:center;margin-top:48px}
 .msg{color:var(--sub);font-size:14px;margin-top:8px;min-height:20px}
+.search{width:100%;min-height:48px;border-radius:14px;border:1px solid var(--line);background:var(--card);color:var(--ink);font:inherit;font-size:17px;padding:8px 14px;margin:4px 0 8px}
+.plist{margin:0;padding:0;list-style:none}
+.plist li{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:12px 4px;border-bottom:1px solid var(--line)}
+.plist .w{font-family:Georgia,serif;font-size:20px}
+.plist .i{color:var(--sub);font-size:15px}
+.plist .h{color:var(--sub);font-size:13px}
+.spk{flex:none;width:48px;height:48px;border-radius:50%;border:1px solid var(--line);background:var(--card);color:var(--ink);font-size:18px}
 </style>
 </head>
 <body>
@@ -100,6 +107,8 @@ function home(){
    '<div class="stack">'+
     btn('vocab','單字卡','共 '+data.vocab.length+' 字',dv)+
     btn('quiz','錯題測驗','共 '+data.errors.length+' 題',de)+
+    btn('types','依錯誤類型複習','時態、介系詞、用字…',null)+
+    btn('pron','發音字清單','共 '+(data.pronunciation||[]).length+' 字',null)+
    '</div>'+
    '<div style="flex:1"></div>'+
    '<div class="stack" style="margin-top:24px">'+
@@ -109,13 +118,15 @@ function home(){
     '<div class="msg" id="msg"></div></div>';
   app.querySelector('[data-go=vocab]').onclick=function(){startVocab();};
   app.querySelector('[data-go=quiz]').onclick=function(){startQuiz();};
+  app.querySelector('[data-go=types]').onclick=typeMenu;
+  app.querySelector('[data-go=pron]').onclick=pronList;
   document.getElementById('exp').onclick=exportProg;
   var f=document.getElementById('file');
   document.getElementById('imp').onclick=function(){f.click();};
   f.onchange=function(){importProg(f.files[0]);};
 }
 function btn(go,t,s,n){
-  return '<button class="big" data-go="'+go+'"><span>'+t+'<small>'+s+'</small></span><span class="badge'+(n?'':' zero')+'">'+n+'</span></button>';
+  return '<button class="big" data-go="'+go+'"><span>'+t+'<small>'+s+'</small></span>'+(n==null?'<span class="sub">›</span>':'<span class="badge'+(n?'':' zero')+'">'+n+'</span>')+'</button>';
 }
 function msg(t){var m=document.getElementById('msg');if(m)m.textContent=t;}
 
@@ -188,8 +199,9 @@ function startVocab(){
 }
 
 /* ---------- 錯題測驗 ---------- */
-function startQuiz(){
-  var q=shuffle(dueList('e'));
+// type 有值時：複習該類型的全部錯題（不限到期）；否則只出今天到期的
+function startQuiz(type){
+  var q=shuffle(type?data.errors.filter(function(x){return (x.types||[]).indexOf(type)>=0;}):dueList('e'));
   if(!q.length)return done('沒有待複習的錯題');
   var total=q.length, idx=0;
   function show(){
@@ -219,6 +231,52 @@ function startQuiz(){
   }
   function next(c,ok){grade('e',c.id,ok);q.shift();idx++;show();}
   show();
+}
+
+/* ---------- 依錯誤類型篩選 ---------- */
+function typeMenu(){
+  var cnt={},due={};
+  data.errors.forEach(function(e){(e.types||[]).forEach(function(t){
+    cnt[t]=(cnt[t]||0)+1;if(isDue('e',e.id))due[t]=(due[t]||0)+1;
+  });});
+  var ts=Object.keys(cnt).sort(function(a,b){return cnt[b]-cnt[a];});
+  app.innerHTML='<div class="top"><button class="link" id="back">‹ 返回</button></div>'+
+   '<h1>依錯誤類型複習</h1><div class="sub">選一種類型，會出該類型的全部題目</div>'+
+   '<div class="stack">'+ts.map(function(t,i){
+     return '<button class="big" data-i="'+i+'"><span>'+esc(t)+'<small>共 '+cnt[t]+' 題</small></span>'+
+       '<span class="badge'+(due[t]?'':' zero')+'">'+(due[t]||0)+'</span></button>';
+   }).join('')+'</div><div class="sub" style="margin-top:12px">右側數字是今天待複習的題數</div>';
+  document.getElementById('back').onclick=home;
+  Array.prototype.forEach.call(app.querySelectorAll('[data-i]'),function(b){
+    b.onclick=function(){startQuiz(ts[+b.getAttribute('data-i')]);};
+  });
+}
+
+/* ---------- 發音字清單 ---------- */
+function speak(w){
+  try{var u=new SpeechSynthesisUtterance(w);u.lang='en-US';u.rate=.9;speechSynthesis.cancel();speechSynthesis.speak(u);}catch(e){}
+}
+function pronList(){
+  var list=(data.pronunciation||[]).slice().sort(function(a,b){return a.word.toLowerCase()<b.word.toLowerCase()?-1:1;});
+  app.innerHTML='<div class="top"><button class="link" id="back">‹ 返回</button><span class="sub">共 '+list.length+' 字</span></div>'+
+   '<h1>發音字清單</h1>'+
+   '<input class="search" id="q" type="search" placeholder="搜尋單字" autocapitalize="off" autocomplete="off">'+
+   '<ul class="plist" id="pl"></ul>';
+  document.getElementById('back').onclick=home;
+  var ul=document.getElementById('pl'),q=document.getElementById('q');
+  function render(){
+    var k=q.value.trim().toLowerCase();
+    var rows=list.filter(function(p){return !k||p.word.toLowerCase().indexOf(k)>=0;});
+    ul.innerHTML=rows.length?rows.map(function(p,i){
+      return '<li><div><div class="w">'+esc(p.word)+'</div>'+
+        (p.ipa?'<div class="i">'+esc(p.ipa)+'</div>':'')+
+        (p.hint?'<div class="h">'+esc(p.hint)+'</div>':'')+
+        '</div><button class="spk" data-w="'+esc(p.word)+'" aria-label="朗讀">🔊</button></li>';
+    }).join(''):'<li class="sub">找不到符合的字</li>';
+  }
+  q.oninput=render;
+  ul.onclick=function(e){var b=e.target.closest('.spk');if(b)speak(b.getAttribute('data-w'));};
+  render();
 }
 
 /* ---------- 啟動 ---------- */
