@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="zh-Hant-TW">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="英文複習">
+<meta name="theme-color" content="#f6f4ef">
+<title>英文複習</title>
+<style>
+:root{
+  --bg:#f6f4ef;--card:#fffdf9;--ink:#2b2a27;--sub:#77736a;--line:#e3dfd5;
+  --accent:#4f6f64;--accent-ink:#fff;--good:#4f6f64;--bad:#b4574a;
+}
+@media (prefers-color-scheme:dark){
+  :root{--bg:#1e1f1d;--card:#292a27;--ink:#ecebe6;--sub:#a29f95;--line:#3a3b37;--accent:#7fa597;--accent-ink:#13201b;--good:#7fa597;--bad:#d58a7d}
+}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html,body{margin:0;height:100%;background:var(--bg);color:var(--ink);
+  font-family:-apple-system,"PingFang TC","Microsoft JhengHei","Noto Sans TC",Helvetica,Arial,sans-serif;font-size:17px;line-height:1.6}
+#app{max-width:520px;margin:0 auto;min-height:100%;display:flex;flex-direction:column;padding:16px 16px calc(16px + env(safe-area-inset-bottom))}
+h1{font-size:22px;margin:8px 0 4px;font-weight:600}
+.sub{color:var(--sub);font-size:14px}
+.top{display:flex;align-items:center;justify-content:space-between;min-height:44px}
+.link{background:none;border:0;color:var(--sub);font:inherit;font-size:15px;padding:10px 4px;cursor:pointer}
+.stack{display:flex;flex-direction:column;gap:12px;margin-top:16px}
+button{font:inherit;cursor:pointer}
+.big{width:100%;min-height:64px;border-radius:16px;border:1px solid var(--line);background:var(--card);color:var(--ink);
+  padding:12px 18px;text-align:left;display:flex;justify-content:space-between;align-items:center;font-size:18px}
+.big small{display:block;color:var(--sub);font-size:13px;margin-top:2px}
+.badge{min-width:44px;text-align:center;border-radius:999px;background:var(--accent);color:var(--accent-ink);padding:4px 12px;font-size:16px;font-weight:600}
+.badge.zero{background:var(--line);color:var(--sub)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:20px;padding:24px 20px;margin-top:12px;flex:1;display:flex;flex-direction:column;justify-content:center;min-height:240px;word-break:break-word}
+.word{font-size:32px;font-weight:600;text-align:center;font-family:Georgia,"Times New Roman",serif}
+.ipa{text-align:center;color:var(--sub);margin-top:6px}
+.meaning{font-size:22px;text-align:center;margin-top:14px}
+.def,.ex{margin-top:12px;color:var(--sub);font-size:16px}
+.ex{font-style:italic;font-family:Georgia,serif}
+.hint{text-align:center;color:var(--sub);font-size:14px;margin-top:20px}
+.wrong{font-size:21px;font-family:Georgia,serif;line-height:1.5}
+.label{font-size:13px;color:var(--sub);margin:14px 0 4px}
+.right{font-size:21px;font-family:Georgia,serif;color:var(--good);line-height:1.5}
+.tag{display:inline-block;border:1px solid var(--line);border-radius:999px;padding:2px 12px;font-size:14px;margin-right:6px}
+textarea{width:100%;min-height:96px;border-radius:14px;border:1px solid var(--line);background:var(--bg);color:var(--ink);
+  font:inherit;font-size:18px;padding:12px;margin-top:14px;resize:none;font-family:Georgia,serif}
+.row{display:flex;gap:12px;margin-top:12px}
+.act{flex:1;min-height:60px;border-radius:16px;border:0;font-size:19px;font-weight:600;background:var(--accent);color:var(--accent-ink)}
+.act.alt{background:var(--card);color:var(--bad);border:1px solid var(--bad)}
+.act.alt.ok{color:var(--good);border-color:var(--good)}
+.act.plain{background:var(--card);color:var(--ink);border:1px solid var(--line)}
+.bar{height:4px;background:var(--line);border-radius:2px;flex:1;margin:0 12px;overflow:hidden}
+.bar i{display:block;height:100%;background:var(--accent)}
+.center{text-align:center;margin-top:48px}
+.msg{color:var(--sub);font-size:14px;margin-top:8px;min-height:20px}
+</style>
+</head>
+<body>
+<div id="app"></div>
+<script>
+(function(){
+'use strict';
+var KEY='english-review-progress-v1';
+var DAYS=[1,3,7];               // 間隔：1、3、7 天
+var data=null, prog={v:{},e:{}};
+var app=document.getElementById('app');
+
+/* ---------- 工具 ---------- */
+function today(){var d=new Date();return d.getFullYear()+'-'+p2(d.getMonth()+1)+'-'+p2(d.getDate());}
+function p2(n){return n<10?'0'+n:''+n;}
+function addDays(s,n){var a=s.split('-'),d=new Date(+a[0],+a[1]-1,+a[2]+n);return d.getFullYear()+'-'+p2(d.getMonth()+1)+'-'+p2(d.getDate());}
+function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
+function shuffle(a){for(var i=a.length-1;i>0;i--){var j=Math.floor(Math.random()*(i+1)),t=a[i];a[i]=a[j];a[j]=t;}return a;}
+
+/* ---------- 進度（以資料 ID 對應，資料更新後自然保留） ---------- */
+function load(){
+  try{var r=JSON.parse(localStorage.getItem(KEY));if(r&&r.v&&r.e)prog=r;}catch(e){}
+}
+function save(){try{localStorage.setItem(KEY,JSON.stringify(prog));}catch(e){}}
+// 回報：熟/答對 -> 升一階；不熟/答錯 -> 回到第 1 階
+function grade(kind,id,ok){
+  var m=prog[kind], r=m[id]||{s:0}, t=today();
+  r.s=ok?Math.min((r.s||0)+1,DAYS.length):0;
+  r.due=addDays(t,DAYS[Math.max(r.s-1,0)]);
+  r.n=(r.n||0)+1; r.last=t;
+  m[id]=r; save();
+}
+function isDue(kind,id){var r=prog[kind][id];return !r||r.due<=today();}
+function dueList(kind){
+  var arr=kind==='v'?data.vocab:data.errors;
+  return arr.filter(function(x){return isDue(kind,x.id);});
+}
+
+/* ---------- 畫面 ---------- */
+function home(){
+  var dv=dueList('v').length, de=dueList('e').length;
+  app.innerHTML=
+   '<div class="top"><h1>英文複習</h1></div>'+
+   '<div class="sub">今天待複習共 '+(dv+de)+' 項</div>'+
+   '<div class="stack">'+
+    btn('vocab','單字卡','共 '+data.vocab.length+' 字',dv)+
+    btn('quiz','錯題測驗','共 '+data.errors.length+' 題',de)+
+   '</div>'+
+   '<div style="flex:1"></div>'+
+   '<div class="stack" style="margin-top:24px">'+
+    '<div class="row" style="margin:0"><button class="act plain" id="exp" style="min-height:52px;font-size:16px">匯出進度</button>'+
+    '<button class="act plain" id="imp" style="min-height:52px;font-size:16px">匯入進度</button></div>'+
+    '<input type="file" id="file" accept="application/json,.json" hidden>'+
+    '<div class="msg" id="msg"></div></div>';
+  app.querySelector('[data-go=vocab]').onclick=function(){startVocab();};
+  app.querySelector('[data-go=quiz]').onclick=function(){startQuiz();};
+  document.getElementById('exp').onclick=exportProg;
+  var f=document.getElementById('file');
+  document.getElementById('imp').onclick=function(){f.click();};
+  f.onchange=function(){importProg(f.files[0]);};
+}
+function btn(go,t,s,n){
+  return '<button class="big" data-go="'+go+'"><span>'+t+'<small>'+s+'</small></span><span class="badge'+(n?'':' zero')+'">'+n+'</span></button>';
+}
+function msg(t){var m=document.getElementById('msg');if(m)m.textContent=t;}
+
+function exportProg(){
+  var blob=new Blob([JSON.stringify({app:'english-review',exported:new Date().toISOString(),progress:prog},null,1)],{type:'application/json'});
+  var a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='english-review-progress-'+today()+'.json';
+  document.body.appendChild(a);a.click();setTimeout(function(){URL.revokeObjectURL(a.href);a.remove();},500);
+  msg('已匯出，請把檔案存好。');
+}
+function importProg(file){
+  if(!file)return;
+  var rd=new FileReader();
+  rd.onload=function(){
+    try{
+      var o=JSON.parse(rd.result), p=o.progress||o;
+      if(!p||typeof p.v!=='object'||typeof p.e!=='object')throw 0;
+      if(!confirm('匯入會覆蓋目前這支手機上的進度，確定嗎？'))return;
+      prog={v:p.v,e:p.e};save();home();msg('匯入完成。');
+    }catch(e){msg('檔案格式不正確。');}
+  };
+  rd.readAsText(file);
+}
+
+function header(i,n){
+  return '<div class="top"><button class="link" id="back">‹ 返回</button><div class="bar"><i style="width:'+(n?Math.round(i/n*100):0)+'%"></i></div><span class="sub">'+Math.min(i+1,n)+'/'+n+'</span></div>';
+}
+function done(msgText){
+  app.innerHTML='<div class="center"><h1>'+msgText+'</h1><p class="sub">今天這一輪完成了。</p></div>'+
+   '<div class="stack"><button class="act" id="ok">回首頁</button></div>';
+  document.getElementById('ok').onclick=home;
+}
+
+/* ---------- 單字卡 ---------- */
+function startVocab(){
+  var q=shuffle(dueList('v'));
+  if(!q.length)return done('沒有待複習的單字');
+  var total=q.length, idx=0, requeued={};
+  function show(){
+    if(!q.length)return done('單字複習完成');
+    var c=q[0];
+    app.innerHTML=header(idx,total)+
+     '<div class="card" id="card"><div class="word">'+esc(c.word)+'</div>'+
+     (c.ipa?'<div class="ipa">'+esc(c.ipa)+'</div>':'')+
+     '<div class="hint">點一下翻面</div></div>'+
+     '<div class="row"><button class="act plain" id="flip">翻面</button></div>';
+    document.getElementById('back').onclick=home;
+    var flip=function(){back(c);};
+    document.getElementById('card').onclick=flip;
+    document.getElementById('flip').onclick=flip;
+  }
+  function back(c){
+    var h='<div class="word">'+esc(c.word)+'</div>'+(c.ipa?'<div class="ipa">'+esc(c.ipa)+'</div>':'')+
+      (c.meaning?'<div class="meaning">'+esc(c.meaning)+'</div>':'')+
+      (c.definition?'<div class="def">'+esc(c.definition)+'</div>':'')+
+      (c.example?'<div class="ex">'+esc(c.example)+'</div>':'');
+    app.innerHTML=header(idx,total)+'<div class="card">'+h+'</div>'+
+     '<div class="row"><button class="act alt" id="no">不熟</button><button class="act" id="yes">熟</button></div>';
+    document.getElementById('back').onclick=home;
+    document.getElementById('yes').onclick=function(){answer(c,true);};
+    document.getElementById('no').onclick=function(){answer(c,false);};
+  }
+  function answer(c,ok){
+    grade('v',c.id,ok);
+    q.shift();
+    // 不熟的卡片本輪稍後再出現一次
+    if(!ok&&!requeued[c.id]){requeued[c.id]=1;q.splice(Math.min(4,q.length),0,c);total++;}
+    idx++;show();
+  }
+  show();
+}
+
+/* ---------- 錯題測驗 ---------- */
+function startQuiz(){
+  var q=shuffle(dueList('e'));
+  if(!q.length)return done('沒有待複習的錯題');
+  var total=q.length, idx=0;
+  function show(){
+    if(!q.length)return done('錯題複習完成');
+    var c=q[0];
+    app.innerHTML=header(idx,total)+
+     '<div class="card" style="flex:0 0 auto"><div class="label" style="margin-top:0">這句有錯，請改成正確的：</div><div class="wrong">'+esc(c.wrong)+'</div>'+
+     '<textarea id="ans" placeholder="在這裡打出正確版本" autocapitalize="sentences" spellcheck="false"></textarea></div>'+
+     '<div style="flex:1"></div><div class="row"><button class="act" id="chk">看答案</button></div>';
+    document.getElementById('back').onclick=home;
+    document.getElementById('chk').onclick=function(){reveal(c,document.getElementById('ans').value);};
+  }
+  function reveal(c,mine){
+    var types=(c.types||[]).map(function(t){return '<span class="tag">'+esc(t)+'</span>';}).join('');
+    app.innerHTML=header(idx,total)+
+     '<div class="card" style="flex:0 0 auto">'+
+      '<div class="label" style="margin-top:0">原句（錯）</div><div class="wrong">'+esc(c.wrong)+'</div>'+
+      (mine.trim()?'<div class="label">你的答案</div><div style="font-family:Georgia,serif;font-size:19px">'+esc(mine)+'</div>':'')+
+      '<div class="label">改正句</div><div class="right">'+esc(c.correct)+'</div>'+
+      '<div class="label">錯誤類型</div><div>'+types+'</div>'+
+      (c.note?'<div class="def">'+esc(c.note)+'</div>':'')+
+     '</div><div style="flex:1"></div>'+
+     '<div class="row"><button class="act alt" id="no">答錯</button><button class="act" id="yes">答對</button></div>';
+    document.getElementById('back').onclick=home;
+    document.getElementById('yes').onclick=function(){next(c,true);};
+    document.getElementById('no').onclick=function(){next(c,false);};
+  }
+  function next(c,ok){grade('e',c.id,ok);q.shift();idx++;show();}
+  show();
+}
+
+/* ---------- 啟動 ---------- */
+load();
+app.innerHTML='<div class="center sub">載入中…</div>';
+fetch('data.json',{cache:'no-cache'}).then(function(r){return r.json();}).then(function(d){
+  data=d;data.vocab=data.vocab||[];data.errors=data.errors||[];home();
+}).catch(function(){
+  app.innerHTML='<div class="center"><h1>讀不到資料</h1><p class="sub">請確認網路後重新整理。</p></div>';
+});
+})();
+</script>
+</body>
+</html>
