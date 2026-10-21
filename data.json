@@ -74,6 +74,14 @@
    "example": "He was in agony after twisting his ankle."
   },
   {
+   "id": "w_96c842e9",
+   "word": "agriculture",
+   "ipa": "/ˈæɡrɪˌkʌltʃər/",
+   "meaning": "農業",
+   "definition": "",
+   "example": "Agriculture is the main source of income in many rural areas."
+  },
+  {
    "id": "w_a729cf1e",
    "word": "AI features",
    "ipa": "/ˌeɪ ˈaɪ ˈfiːtʃərz/",
@@ -696,6 +704,14 @@
    "meaning": "來自某地、出生於某地",
    "definition": "",
    "example": "Joe originally hails from Toronto."
+  },
+  {
+   "id": "w_e83e523f",
+   "word": "hiatus",
+   "ipa": "/haɪˈeɪtəs/",
+   "meaning": "暫停、中斷",
+   "definition": "",
+   "example": "The singer is making a strong comeback after years of hiatus."
   },
   {
    "id": "w_f00096bb",
@@ -1684,6 +1700,26 @@
    "note": "用字（更自然說法）"
   },
   {
+   "id": "e_7d9e331a",
+   "wrong": "I am pretty like to read...",
+   "correct": "I love to read...",
+   "types": [
+    "用字",
+    "語序"
+   ],
+   "note": "用字（pretty 是「相當」，不能放在 like 前面表示很喜歡，直接用 love 或 really like）、句型"
+  },
+  {
+   "id": "e_4e020fff",
+   "wrong": "You recall my memory.",
+   "correct": "You reminded me.",
+   "types": [
+    "時態",
+    "用字"
+   ],
+   "note": "用字（remind 是提醒、讓人想起；recall 是自己回想起來）、時態（過去式）"
+  },
+  {
    "id": "e_91c50ca7",
    "wrong": "There are four kids walking through road.",
    "correct": "You can see four kids using the crosswalk to cross the street.",
@@ -2022,6 +2058,12 @@
    "hint": ""
   },
   {
+   "id": "p_96c842e9",
+   "word": "agriculture",
+   "ipa": "/ˈæɡrɪˌkʌltʃər/",
+   "hint": ""
+  },
+  {
    "id": "p_c4560ff0",
    "word": "Aims",
    "ipa": "/eɪmz/",
@@ -2044,6 +2086,12 @@
    "word": "authentic",
    "ipa": "/ɑːˈθen.t̬ɪk/",
    "hint": ""
+  },
+  {
+   "id": "p_0eef3aa9",
+   "word": "Broadens",
+   "ipa": "/ˈbrɔːdnz/",
+   "hint": "BRoh DeNs"
   },
   {
    "id": "p_032b33cf",
@@ -2124,6 +2172,12 @@
    "hint": ""
   },
   {
+   "id": "p_a319fe0e",
+   "word": "dioxide",
+   "ipa": "/daɪˈɑːksaɪd/",
+   "hint": ""
+  },
+  {
    "id": "p_26d40a82",
    "word": "Doubts",
    "ipa": "/daʊts/",
@@ -2136,6 +2190,12 @@
    "hint": ""
   },
   {
+   "id": "p_8ce77cc3",
+   "word": "Enough",
+   "ipa": "/ɪˈnʌf/",
+   "hint": "E NaF"
+  },
+  {
    "id": "p_360c9f80",
    "word": "executives",
    "ipa": "/ɪɡˈzɛkjətɪvz/",
@@ -2143,9 +2203,9 @@
   },
   {
    "id": "p_bf0d88b0",
-   "word": "exhibition",
+   "word": "Exhibition",
    "ipa": "/ˌɛksɪˈbɪʃən/",
-   "hint": ""
+   "hint": "ehg zi Bi ShuN"
   },
   {
    "id": "p_8aeff27d",
@@ -2163,6 +2223,12 @@
    "id": "p_56b8e6bb",
    "word": "governance",
    "ipa": "/ˈɡʌvərnəns/",
+   "hint": ""
+  },
+  {
+   "id": "p_18024362",
+   "word": "habitats",
+   "ipa": "/ˈhæbɪˌtæts/",
    "hint": ""
   },
   {
@@ -2200,6 +2266,12 @@
    "word": "Marketing",
    "ipa": "/ˈmɑːrkɪtɪŋ/",
    "hint": "MAR-ki-ting"
+  },
+  {
+   "id": "p_fa8201ac",
+   "word": "Meaningful",
+   "ipa": "/ˈmiːnɪŋfəl/",
+   "hint": "Mee NiNg FuL"
   },
   {
    "id": "p_fda522f1",
@@ -2298,6 +2370,12 @@
    "hint": ""
   },
   {
+   "id": "p_9c3c295f",
+   "word": "smaller",
+   "ipa": "/ˈsmɔːlər/",
+   "hint": ""
+  },
+  {
    "id": "p_b14eaafc",
    "word": "strangers",
    "ipa": "/ˈstreɪndʒərz/",
@@ -2355,6 +2433,12 @@
    "id": "p_b3ae4f72",
    "word": "women",
    "ipa": "/ˈwɪmɪn/",
+   "hint": ""
+  },
+  {
+   "id": "p_4c1f32a5",
+   "word": "zoo",
+   "ipa": "/zuː/",
    "hint": ""
   }
  ]
