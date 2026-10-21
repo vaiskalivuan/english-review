@@ -10,6 +10,14 @@
    "example": "Late deliveries have become a critical problem for the shop."
   },
   {
+   "id": "w_846e2a86",
+   "word": "absorb",
+   "ipa": "/əbˈsɔːrb/",
+   "meaning": "吸收",
+   "definition": "To take in or soak up a substance, energy, or information",
+   "example": "The soil absorbs rainwater after heavy rainfall."
+  },
+  {
    "id": "w_1931fe09",
    "word": "accretion",
    "ipa": "/əˈkriːʃən/",
@@ -78,7 +86,7 @@
    "word": "agriculture",
    "ipa": "/ˈæɡrɪˌkʌltʃər/",
    "meaning": "農業",
-   "definition": "",
+   "definition": "Farming",
    "example": "Agriculture is the main source of income in many rural areas."
   },
   {
@@ -218,6 +226,14 @@
    "example": "Benchmarking against competitors showed where we were falling behind."
   },
   {
+   "id": "w_28eaf2fe",
+   "word": "beneficial",
+   "ipa": "/ˌben.əˈfɪʃ.əl/",
+   "meaning": "有益的",
+   "definition": "Helpful, useful, or producing a good effect",
+   "example": "Getting enough sleep is beneficial for both your mind and body."
+  },
+  {
    "id": "w_2124037c",
    "word": "benefit",
    "ipa": "/ˈben.ə.fɪt/",
@@ -266,6 +282,14 @@
    "example": "The company will bring out a new smartphone next year."
   },
   {
+   "id": "w_9483bc9b",
+   "word": "broaden",
+   "ipa": "/ˈbrɑː.dən/",
+   "meaning": "拓展、使變寬",
+   "definition": "To make something wider, larger, or more extensive; to increase the range or scope of something",
+   "example": "Traveling can broaden your understanding of different cultures."
+  },
+  {
    "id": "w_c5be5b3d",
    "word": "capability",
    "ipa": "/ˌkeɪpəˈbɪləti/",
@@ -280,6 +304,14 @@
    "meaning": "俘虜、捕獲",
    "definition": "To take someone as a prisoner, or to take something into your possession, especially by force",
    "example": "Two of the soldiers were killed and the rest were captured."
+  },
+  {
+   "id": "w_25dd4d58",
+   "word": "carbon dioxide",
+   "ipa": "/ˌkɑːr.bən daɪˈɑːk.saɪd/",
+   "meaning": "二氧化碳",
+   "definition": "A colorless gas (CO₂) found naturally in the air and produced when fuels are burned",
+   "example": "Too much carbon dioxide can harm the environment."
   },
   {
    "id": "w_1d1e75bb",
@@ -338,6 +370,22 @@
    "example": "Talks between management and unions collapsed today."
   },
   {
+   "id": "w_3191819c",
+   "word": "comeback",
+   "ipa": "/ˈkʌm.bæk/",
+   "meaning": "捲土重來、復甦",
+   "definition": "A return to an earlier and better position or condition",
+   "example": "The forest is making a strong comeback after years of deforestation."
+  },
+  {
+   "id": "w_418b03c9",
+   "word": "community",
+   "ipa": "/kəˈmjuː.nə.t̬i/",
+   "meaning": "社群、社區",
+   "definition": "A group of people who live in the same place or who are connected by shared interests, culture, or activities",
+   "example": "The community raised money to help families in need."
+  },
+  {
    "id": "w_acc646e6",
    "word": "compensation",
    "ipa": "/ˌkɑːmpənˈseɪʃən/",
@@ -368,6 +416,14 @@
    "meaning": "信心",
    "definition": "The quality of being certain of your abilities or of having trust in people, plans, or the future",
    "example": "He has the confidence to walk into a room of strangers and immediately start a conversation."
+  },
+  {
+   "id": "w_309e4812",
+   "word": "conservation effort",
+   "ipa": "/ˌkɑːn.sɚˈveɪ.ʃən ˈef.ɚt/",
+   "meaning": "保育努力",
+   "definition": "Actions taken to protect and preserve the natural environment, wildlife, or natural resources",
+   "example": "The government supports conservation efforts for wildlife."
   },
   {
    "id": "w_5567f7ef",
@@ -514,6 +570,14 @@
    "example": "Prices have doubled over the last decade."
   },
   {
+   "id": "w_55f2754d",
+   "word": "decline",
+   "ipa": "/dɪˈklaɪn/",
+   "meaning": "衰退、減少",
+   "definition": "To become smaller, fewer, or worse in quality, number, or importance",
+   "example": "The town's population declined over the years."
+  },
+  {
    "id": "w_007e9f6b",
    "word": "deliverables scope",
    "ipa": "/dɪˈlɪvərəbəlz skoʊp/",
@@ -610,6 +674,14 @@
    "example": "Starting a business is a challenging endeavor."
   },
   {
+   "id": "w_ea2091be",
+   "word": "endless",
+   "ipa": "/ˈend.ləs/",
+   "meaning": "無盡的",
+   "definition": "Seeming to have no end, or continuing for a very long time without stopping",
+   "example": "The internet offers endless sources of information."
+  },
+  {
    "id": "w_1da9354d",
    "word": "escalation pathway",
    "ipa": "/ˌɛskəˈleɪʃən ˈpæθweɪ/",
@@ -666,6 +738,14 @@
    "example": "Weekly meetings help facilitate cross-functional alignment on priorities."
   },
   {
+   "id": "w_7a7bc449",
+   "word": "factor",
+   "ipa": "/ˈfæk.tɚ/",
+   "meaning": "因素",
+   "definition": "Something that helps cause or influence a result or situation",
+   "example": "Hard work is a key factor in success."
+  },
+  {
    "id": "w_95c09539",
    "word": "fall through",
    "ipa": "/fɔːl θruː/",
@@ -680,6 +760,14 @@
    "meaning": "為某項工作、權利或服務付的費用",
    "definition": "",
    "example": "We couldn't pay the lawyer's fee."
+  },
+  {
+   "id": "w_d7eee0be",
+   "word": "gather",
+   "ipa": "/ˈɡæð.ɚ/",
+   "meaning": "聚集",
+   "definition": "To come together in one place, usually as a group, for a particular purpose",
+   "example": "The community gathered to discuss local issues."
   },
   {
    "id": "w_5e871091",
@@ -728,6 +816,14 @@
    "meaning": "成長",
    "definition": "An increase in the size or the importance of something",
    "example": "The government is trying to limit population growth."
+  },
+  {
+   "id": "w_1da0e9a6",
+   "word": "habitat",
+   "ipa": "/ˈhæb.ə.tæt/",
+   "meaning": "棲地",
+   "definition": "The natural environment where a plant or animal normally lives and grows",
+   "example": "The forest provides a safe habitat for wild animals."
   },
   {
    "id": "w_e812ba8d",
@@ -792,6 +888,14 @@
    "meaning": "全像投影",
    "definition": "",
    "example": "The museum showed a hologram of an ancient temple."
+  },
+  {
+   "id": "w_1f4c64fb",
+   "word": "housing",
+   "ipa": "/ˈhaʊ.zɪŋ/",
+   "meaning": "住宅",
+   "definition": "Buildings or places where people live, such as houses, apartments, or shelters",
+   "example": "The city is building new housing for families."
   },
   {
    "id": "w_cf1062b4",
@@ -978,6 +1082,14 @@
    "example": "The brand has low market penetration in rural areas."
   },
   {
+   "id": "w_fa8201ac",
+   "word": "meaningful",
+   "ipa": "/ˈmiː.nɪŋ.fəl/",
+   "meaning": "有意義的",
+   "definition": "Important, significant, or having a clear value or purpose",
+   "example": "They shared a meaningful discussion about their future goals."
+  },
+  {
    "id": "w_4c623b36",
    "word": "mentor digital educators",
    "ipa": "/ˈmɛntɔːr ˈdɪdʒɪtl ˈɛdʒəˌkeɪtərz/",
@@ -1032,6 +1144,14 @@
    "meaning": "北大西洋公約組織，各國為安全與防衛合作的軍事與政治聯盟",
    "definition": "",
    "example": ""
+  },
+  {
+   "id": "w_be60af6b",
+   "word": "naturally",
+   "ipa": "/ˈnætʃ.ɚ.əl.i/",
+   "meaning": "自然地",
+   "definition": "In a way that happens by itself, without human control or help",
+   "example": "The river flows naturally through the valley."
   },
   {
    "id": "w_dc6960bc",
@@ -1096,6 +1216,22 @@
    "meaning": "典範轉移",
    "definition": "",
    "example": "Smartphones caused a paradigm shift in how we communicate."
+  },
+  {
+   "id": "w_7a211045",
+   "word": "participant",
+   "ipa": "/pɑːrˈtɪs.ə.pənt/",
+   "meaning": "參與者",
+   "definition": "A person who takes part in or becomes involved in a particular activity or event",
+   "example": "Each participant had the opportunity to ask questions."
+  },
+  {
+   "id": "w_d6857486",
+   "word": "participate",
+   "ipa": "/pɑːrˈtɪs.ə.peɪt/",
+   "meaning": "參與",
+   "definition": "To take part in or become involved in an activity or event",
+   "example": "Many students participate in school activities after class."
   },
   {
    "id": "w_dc993357",
@@ -1234,12 +1370,44 @@
    "example": "The library runs a reading program for children every summer."
   },
   {
+   "id": "w_aa87dc4e",
+   "word": "promote",
+   "ipa": "/prəˈmoʊt/",
+   "meaning": "推廣、鼓勵",
+   "definition": "To encourage people to do, use, support, or become interested in something",
+   "example": "The library organizes activities to promote reading among children."
+  },
+  {
+   "id": "w_26245adc",
+   "word": "public awareness",
+   "ipa": "/ˈpʌb.lɪk əˈwer.nəs/",
+   "meaning": "公眾意識",
+   "definition": "The understanding and knowledge that people in society have about an issue or problem",
+   "example": "Public awareness helps people protect the environment."
+  },
+  {
    "id": "w_dc867c03",
    "word": "push",
    "ipa": "/pʊʃ/",
    "meaning": "大力推動",
    "definition": "A strong effort or plan to introduce, promote, or expand something",
    "example": "The school made a strong push to improve attendance."
+  },
+  {
+   "id": "w_c7a6343b",
+   "word": "rapidly",
+   "ipa": "/ˈræp.ɪd.li/",
+   "meaning": "迅速地",
+   "definition": "In a fast or sudden way",
+   "example": "Prices have increased rapidly in recent years."
+  },
+  {
+   "id": "w_c4d9c489",
+   "word": "regenerate",
+   "ipa": "/rɪˈdʒen.ə.reɪt/",
+   "meaning": "再生",
+   "definition": "To grow again or replace what was lost, damaged, or destroyed",
+   "example": "Some trees can regenerate after being cut."
   },
   {
    "id": "w_197caeb8",
@@ -1264,6 +1432,22 @@
    "meaning": "相關的",
    "definition": "Connected with what is happening or being discussed",
    "example": "Education should be relevant to the child's needs."
+  },
+  {
+   "id": "w_3079ecd8",
+   "word": "remarkable",
+   "ipa": "/rɪˈmɑːr.kə.bəl/",
+   "meaning": "了不起的、顯著的",
+   "definition": "Something that is unusual, special, or worth noticing because it is very good or impressive",
+   "example": "The scientist made a remarkable discovery."
+  },
+  {
+   "id": "w_7e22ea47",
+   "word": "researcher",
+   "ipa": "/ˈriː.sɝː.tʃɚ/",
+   "meaning": "研究人員",
+   "definition": "Someone who studies a subject, especially in order to discover new information or reach a new understanding",
+   "example": "A researcher found a new type of plant."
   },
   {
    "id": "w_91ef0c16",
@@ -1394,6 +1578,22 @@
    "example": "There was a significant increase in online sales this year."
   },
   {
+   "id": "w_9477e11e",
+   "word": "Silent Book Club",
+   "ipa": "/ˈsaɪ.lənt bʊk klʌb/",
+   "meaning": "靜默讀書會",
+   "definition": "A social reading gathering where people meet up, bring whatever book they want, and read quietly together",
+   "example": "I joined a Silent Book Club to meet other readers and enjoy a peaceful reading session."
+  },
+  {
+   "id": "w_e9705821",
+   "word": "silent reading",
+   "ipa": "/ˈsaɪ.lənt ˈriː.dɪŋ/",
+   "meaning": "默讀",
+   "definition": "The activity of reading a text in one's mind without pronouncing the words aloud or moving the lips",
+   "example": "The teacher gave the students twenty minutes for silent reading."
+  },
+  {
    "id": "w_2185c48b",
    "word": "slow down",
    "ipa": "/sloʊ daʊn/",
@@ -1415,7 +1615,7 @@
    "ipa": "/spiːd ʌp/",
    "meaning": "加快",
    "definition": "",
-   "example": "Samsung wants to speed up AI integration."
+   "example": "The manager asked the team to speed up production."
   },
   {
    "id": "w_e885aeaa",
@@ -1488,6 +1688,14 @@
    "meaning": "串流大戰",
    "definition": "",
    "example": "The streaming battle among big platforms keeps subscription prices rising."
+  },
+  {
+   "id": "w_165bd364",
+   "word": "stress",
+   "ipa": "/stres/",
+   "meaning": "壓力",
+   "definition": "A state of worry, pressure, or mental tension caused by difficult situations or demands",
+   "example": "Too much work can cause stress and make it difficult to relax."
   },
   {
    "id": "w_32086137",
@@ -2434,7 +2642,7 @@
   {
    "id": "p_fa8201ac",
    "word": "Meaningful",
-   "ipa": "/ˈmiːnɪŋfəl/",
+   "ipa": "/ˈmiː.nɪŋ.fəl/",
    "hint": "Mee NiNg FuL"
   },
   {

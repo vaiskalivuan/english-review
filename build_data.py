@@ -23,9 +23,10 @@ Privacy:
     * --exclude-terms points to a plain-text file (one term per line, '#'
       comments allowed, case-insensitive substring match). It is kept OUTSIDE
       this repository. A leading '!' marks a strict term (checked against
-      words and the final output too); other terms apply to sentences only.
-      Any error item that matches is dropped entirely; any example sentence
-      that matches is dropped (the vocab item is kept).
+      words, example sentences and the final output); other terms apply to
+      error items only. Any error item that matches is dropped entirely; an
+      example sentence that matches a strict term is dropped (the vocab item
+      is kept).
     * Example sentences from tailored sources are never read.
 """
 import argparse
@@ -186,7 +187,7 @@ class Collector:
         if t:
             self.excluded.append(("vocab", word, t))
             return
-        t = hit(example, self.sentence_terms) if example else None
+        t = hit(example, self.strict) if example else None
         if t:
             self.excluded.append(("example", example, t))
             example = ""
