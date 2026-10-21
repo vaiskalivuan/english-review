@@ -82,6 +82,14 @@
    "example": "Agriculture is the main source of income in many rural areas."
   },
   {
+   "id": "w_7addbefd",
+   "word": "AI agent",
+   "ipa": "/ˌeɪ ˈaɪ ˈeɪdʒənt/",
+   "meaning": "AI 代理",
+   "definition": "",
+   "example": ""
+  },
+  {
    "id": "w_a729cf1e",
    "word": "AI features",
    "ipa": "/ˌeɪ ˈaɪ ˈfiːtʃərz/",
@@ -144,6 +152,14 @@
    "meaning": "武裝團體",
    "definition": "",
    "example": "Aid workers could not enter the area because of armed groups."
+  },
+  {
+   "id": "w_e1b83874",
+   "word": "assist",
+   "ipa": "/əˈsɪst/",
+   "meaning": "協助",
+   "definition": "To help someone do something",
+   "example": "The app is designed to assist students in learning math."
   },
   {
    "id": "w_a58fac02",
@@ -242,6 +258,14 @@
    "example": "The training program helps bridge the gap between school and work."
   },
   {
+   "id": "w_af17309e",
+   "word": "bring out",
+   "ipa": "/brɪŋ aʊt/",
+   "meaning": "推出、發表",
+   "definition": "",
+   "example": "The company will bring out a new smartphone next year."
+  },
+  {
    "id": "w_c5be5b3d",
    "word": "capability",
    "ipa": "/ˌkeɪpəˈbɪləti/",
@@ -256,6 +280,14 @@
    "meaning": "俘虜、捕獲",
    "definition": "To take someone as a prisoner, or to take something into your possession, especially by force",
    "example": "Two of the soldiers were killed and the rest were captured."
+  },
+  {
+   "id": "w_1d1e75bb",
+   "word": "carry out",
+   "ipa": "/ˈkæri aʊt/",
+   "meaning": "執行、完成（任務）",
+   "definition": "",
+   "example": "The robot can carry out simple instructions like opening files or sending emails."
   },
   {
    "id": "w_4690d8ff",
@@ -498,6 +530,14 @@
    "example": "The town was devastated by a hurricane in 1928."
   },
   {
+   "id": "w_f3a929b3",
+   "word": "device",
+   "ipa": "/dɪˈvaɪs/",
+   "meaning": "裝置",
+   "definition": "",
+   "example": ""
+  },
+  {
    "id": "w_977db51c",
    "word": "die-off",
    "ipa": "/ˈdaɪ ɔːf/",
@@ -536,6 +576,14 @@
    "meaning": "編輯的；社論",
    "definition": "",
    "example": "The editorial team reviews every article."
+  },
+  {
+   "id": "w_5273df4f",
+   "word": "efficiently",
+   "ipa": "/ɪˈfɪʃ.ənt.li/",
+   "meaning": "有效率地",
+   "definition": "In a way that is done well, quickly, and without wasting time, effort, or resources",
+   "example": "Machines help factories produce goods more efficiently."
   },
   {
    "id": "w_3ed32299",
@@ -706,6 +754,14 @@
    "example": "Joe originally hails from Toronto."
   },
   {
+   "id": "w_30009ba1",
+   "word": "hassle",
+   "ipa": "/ˈhæsəl/",
+   "meaning": "麻煩、不便",
+   "definition": "",
+   "example": "Changing flights at the last minute was a real hassle."
+  },
+  {
    "id": "w_e83e523f",
    "word": "hiatus",
    "ipa": "/haɪˈeɪtəs/",
@@ -730,6 +786,14 @@
    "example": "After five years in the role, he felt he had hit a ceiling."
   },
   {
+   "id": "w_ba1a91b4",
+   "word": "hologram",
+   "ipa": "/ˈhɑːləɡræm/",
+   "meaning": "全像投影",
+   "definition": "",
+   "example": "The museum showed a hologram of an ancient temple."
+  },
+  {
    "id": "w_cf1062b4",
    "word": "identify strategic growth vectors",
    "ipa": "/aɪˈdɛntɪfaɪ strəˈtiːdʒɪk ɡroʊθ ˈvɛktərz/",
@@ -744,6 +808,14 @@
    "meaning": "獨立媒體，不受大企業、媒體集團或政府財務與編輯控制的新聞機構或記者，對自己的報導保有完全控制權",
    "definition": "",
    "example": "Many people trust independent media because its journalists can report the news without corporate or political interference."
+  },
+  {
+   "id": "w_1984337f",
+   "word": "industry",
+   "ipa": "/ˈɪndəstri/",
+   "meaning": "產業",
+   "definition": "",
+   "example": ""
   },
   {
    "id": "w_85fde0b4",
@@ -1050,6 +1122,14 @@
    "example": "Performance-driven payment rewards people who exceed their targets."
   },
   {
+   "id": "w_15b6089f",
+   "word": "personal computers",
+   "ipa": "/ˈpɜːrsənəl kəmˈpjuːtərz/",
+   "meaning": "個人電腦",
+   "definition": "",
+   "example": ""
+  },
+  {
    "id": "w_249a26cf",
    "word": "phrasal verb",
    "ipa": "/ˈfreɪzəl vɜːrb/",
@@ -1247,7 +1327,7 @@
    "ipa": "/roʊl aʊt/",
    "meaning": "推出、上線（產品）",
    "definition": "",
-   "example": "Samsung will roll out AI features to more devices."
+   "example": "The company will roll out a new app next month."
   },
   {
    "id": "w_b06273ad",
@@ -1270,8 +1350,8 @@
    "word": "secure",
    "ipa": "/səˈkjʊr/",
    "meaning": "安全的",
-   "definition": "Able to avoid being harmed by any risk, danger, or threat",
-   "example": "Endangered species need to be kept secure from poachers."
+   "definition": "Protected from danger, harm, or unauthorized access; safe and reliable",
+   "example": "The bank provides a secure online platform for money transfers."
   },
   {
    "id": "w_5d4847a1",
@@ -1296,6 +1376,22 @@
    "meaning": "清楚說明、陳述",
    "definition": "To explain, describe, or present something clearly",
    "example": "The report sets out the company's goals for the next five years."
+  },
+  {
+   "id": "w_dbd79b31",
+   "word": "shift",
+   "ipa": "/ʃɪft/",
+   "meaning": "轉變",
+   "definition": "A change from one situation, method, or way of doing something to another",
+   "example": "The company announced a shift from paper documents to digital files."
+  },
+  {
+   "id": "w_639f520f",
+   "word": "significant",
+   "ipa": "/sɪɡˈnɪf.ə.kənt/",
+   "meaning": "重大的、顯著的",
+   "definition": "Important or large enough to be noticed or have an effect",
+   "example": "There was a significant increase in online sales this year."
   },
   {
    "id": "w_2185c48b",
@@ -1336,6 +1432,14 @@
    "meaning": "利害關係人的支持與認可",
    "definition": "",
    "example": "The project failed because it never gained stakeholder buy-in."
+  },
+  {
+   "id": "w_bed4e9a5",
+   "word": "stand out",
+   "ipa": "/stænd aʊt/",
+   "meaning": "顯眼、突出",
+   "definition": "",
+   "example": "Her bright jacket made her stand out in the crowd."
   },
   {
    "id": "w_17a81ff2",
@@ -1456,6 +1560,14 @@
    "meaning": "迅速流行、起飛",
    "definition": "",
    "example": "Galaxy AI usage is expected to take off soon."
+  },
+  {
+   "id": "w_de94a342",
+   "word": "team up",
+   "ipa": "/tiːm ʌp/",
+   "meaning": "與他人合作",
+   "definition": "",
+   "example": "The engineers teamed up with designers to build the new system."
   },
   {
    "id": "w_d48575a0",
@@ -1718,6 +1830,16 @@
     "用字"
    ],
    "note": "用字（remind 是提醒、讓人想起；recall 是自己回想起來）、時態（過去式）"
+  },
+  {
+   "id": "e_6346d5fa",
+   "wrong": "I just do a lot of work busier than usual.",
+   "correct": "I've just been doing a lot of work, so I've been busier than usual.",
+   "types": [
+    "時態",
+    "語序"
+   ],
+   "note": "時態（持續到現在的狀態用現在完成進行式 have been doing）、句型（兩件事要用 so 連接，不能直接把 busier than usual 接在 work 後面）"
   },
   {
    "id": "e_91c50ca7",
@@ -2052,9 +2174,21 @@
  ],
  "pronunciation": [
   {
+   "id": "p_0f12541a",
+   "word": "Access",
+   "ipa": "/ˈækses/",
+   "hint": ""
+  },
+  {
    "id": "p_0bf41704",
    "word": "activity",
    "ipa": "/ækˈtɪvəti/",
+   "hint": ""
+  },
+  {
+   "id": "p_5ff1bc70",
+   "word": "Adverbs",
+   "ipa": "/ˈædvɜːrbz/",
    "hint": ""
   },
   {
@@ -2088,6 +2222,12 @@
    "hint": ""
   },
   {
+   "id": "p_7b231a50",
+   "word": "Available",
+   "ipa": "/əˈveɪləbəl/",
+   "hint": ""
+  },
+  {
    "id": "p_0eef3aa9",
    "word": "Broadens",
    "ipa": "/ˈbrɔːdnz/",
@@ -2115,6 +2255,12 @@
    "id": "p_2ab0591d",
    "word": "card",
    "ipa": "/kɑːrd/",
+   "hint": ""
+  },
+  {
+   "id": "p_7550b672",
+   "word": "Change",
+   "ipa": "/tʃeɪndʒ/",
    "hint": ""
   },
   {
@@ -2148,6 +2294,12 @@
    "hint": ""
   },
   {
+   "id": "p_1b9bcbed",
+   "word": "Cough",
+   "ipa": "/kɒf/",
+   "hint": ""
+  },
+  {
    "id": "p_0fb3012c",
    "word": "craftsmanship",
    "ipa": "/ˈkræftsmənʃɪp/",
@@ -2157,6 +2309,12 @@
    "id": "p_fbdb1805",
    "word": "Curfew",
    "ipa": "/ˈkɜːrfjuː/",
+   "hint": ""
+  },
+  {
+   "id": "p_222b3e11",
+   "word": "Danger",
+   "ipa": "/ˈdeɪndʒər/",
    "hint": ""
   },
   {
@@ -2181,6 +2339,12 @@
    "id": "p_26d40a82",
    "word": "Doubts",
    "ipa": "/daʊts/",
+   "hint": ""
+  },
+  {
+   "id": "p_5273df4f",
+   "word": "Efficiently",
+   "ipa": "/ɪˈfɪʃəntli/",
    "hint": ""
   },
   {
@@ -2274,6 +2438,12 @@
    "hint": "Mee NiNg FuL"
   },
   {
+   "id": "p_bfbaf8b2",
+   "word": "Method",
+   "ipa": "/ˈmeθəd/",
+   "hint": ""
+  },
+  {
    "id": "p_fda522f1",
    "word": "Mostly",
    "ipa": "/ˈmoʊstli/",
@@ -2287,7 +2457,7 @@
   },
   {
    "id": "p_950593b1",
-   "word": "paper",
+   "word": "Paper",
    "ipa": "/ˈpeɪpər/",
    "hint": "PAY-per"
   },
@@ -2322,6 +2492,12 @@
    "hint": ""
   },
   {
+   "id": "p_fdb6c569",
+   "word": "Prepositions",
+   "ipa": "/ˌprepəˈzɪʃənz/",
+   "hint": ""
+  },
+  {
    "id": "p_3345867e",
    "word": "priority",
    "ipa": "/praɪˈɔːrəti/",
@@ -2343,6 +2519,12 @@
    "id": "p_c045670a",
    "word": "quarterly audit",
    "ipa": "/ˈkwɔːrtərli ˈɔːdɪt/",
+   "hint": ""
+  },
+  {
+   "id": "p_d0e6e772",
+   "word": "Rolled",
+   "ipa": "/roʊld/",
    "hint": ""
   },
   {
@@ -2394,6 +2576,12 @@
    "hint": ""
   },
   {
+   "id": "p_7fbb727d",
+   "word": "Task",
+   "ipa": "/tæsk/",
+   "hint": ""
+  },
+  {
    "id": "p_30f7a16c",
    "word": "Technology",
    "ipa": "/tekˈnɒl.ə.dʒi/",
@@ -2418,6 +2606,12 @@
    "hint": ""
   },
   {
+   "id": "p_9d9f2ff1",
+   "word": "Unauthorized",
+   "ipa": "/ʌnˈɔːθəraɪzd/",
+   "hint": ""
+  },
+  {
    "id": "p_9fdcb2f4",
    "word": "vendor",
    "ipa": "/ˈvɛndər/",
@@ -2427,6 +2621,12 @@
    "id": "p_a465f978",
    "word": "Venezuela",
    "ipa": "/ˌvɛnəˈzweɪlə/",
+   "hint": ""
+  },
+  {
+   "id": "p_87cb2432",
+   "word": "Wasting",
+   "ipa": "/ˈweɪstɪŋ/",
    "hint": ""
   },
   {
