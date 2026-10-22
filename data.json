@@ -290,6 +290,14 @@
    "example": "Traveling can broaden your understanding of different cultures."
   },
   {
+   "id": "w_c8db8ba4",
+   "word": "call to action",
+   "ipa": "/kɔːl tuː ˈækʃən/",
+   "meaning": "行動呼籲",
+   "definition": "",
+   "example": "The button at the end of the page is a clear call to action."
+  },
+  {
    "id": "w_c5be5b3d",
    "word": "capability",
    "ipa": "/ˌkeɪpəˈbɪləti/",
@@ -336,6 +344,14 @@
    "meaning": "氣候變遷",
    "definition": "",
    "example": "Climate change is making summers hotter and drier."
+  },
+  {
+   "id": "w_ad53bc00",
+   "word": "co-branding",
+   "ipa": "/koʊ ˈbrændɪŋ/",
+   "meaning": "品牌聯名",
+   "definition": "",
+   "example": "The shoe company and the artist agreed to a co-branding project."
   },
   {
    "id": "w_53adc00d",
@@ -442,12 +458,28 @@
    "example": "Content licensing lets the platform show films made by other studios."
   },
   {
+   "id": "w_d2397104",
+   "word": "content strategy",
+   "ipa": "/ˈkɑːntɛnt ˈstrætədʒi/",
+   "meaning": "內容策略",
+   "definition": "",
+   "example": "A clear content strategy keeps the team focused on what to publish."
+  },
+  {
    "id": "w_f821777b",
    "word": "contractual discrepancy",
    "ipa": "/kənˈtræktʃuəl dɪˈskrɛpənsi/",
    "meaning": "合約條款不一致",
    "definition": "",
    "example": "The audit found a contractual discrepancy between the two versions."
+  },
+  {
+   "id": "w_48179999",
+   "word": "conversion rate",
+   "ipa": "/kənˈvɜːrʒən reɪt/",
+   "meaning": "轉換率",
+   "definition": "",
+   "example": "The new page raised the conversion rate from two to three percent."
   },
   {
    "id": "w_335f89a1",
@@ -610,6 +642,14 @@
    "example": "A sudden die-off of fish worried the local fishermen."
   },
   {
+   "id": "w_8321502a",
+   "word": "domain expert",
+   "ipa": "/doʊˈmeɪn ˈɛkspɜːrt/",
+   "meaning": "領域專家",
+   "definition": "",
+   "example": "We asked a domain expert to review the lesson plan."
+  },
+  {
    "id": "w_cb779ee6",
    "word": "dwindle",
    "ipa": "/ˈdwɪndl/",
@@ -658,6 +698,14 @@
    "example": "The new rules aim to elevate standards across the industry."
   },
   {
+   "id": "w_b7a4c9d9",
+   "word": "email outreach",
+   "ipa": "/ˈiːmeɪl ˈaʊtriːtʃ/",
+   "meaning": "用信件主動聯繫對方",
+   "definition": "",
+   "example": "Personal email outreach works better than mass messages."
+  },
+  {
    "id": "w_695188af",
    "word": "endangered species",
    "ipa": "/ɪnˈdeɪndʒərd ˈspiːʃiːz/",
@@ -680,6 +728,14 @@
    "meaning": "無盡的",
    "definition": "Seeming to have no end, or continuing for a very long time without stopping",
    "example": "The internet offers endless sources of information."
+  },
+  {
+   "id": "w_ce49af15",
+   "word": "engagement rate",
+   "ipa": "/ɪnˈɡeɪdʒmənt reɪt/",
+   "meaning": "互動率",
+   "definition": "",
+   "example": "Short videos have a higher engagement rate than long posts."
   },
   {
    "id": "w_1da9354d",
@@ -760,6 +816,14 @@
    "meaning": "為某項工作、權利或服務付的費用",
    "definition": "",
    "example": "We couldn't pay the lawyer's fee."
+  },
+  {
+   "id": "w_108e1043",
+   "word": "follow-up sequence",
+   "ipa": "/ˈfɑːloʊ ʌp ˈsiːkwəns/",
+   "meaning": "後續追蹤信件的序列",
+   "definition": "",
+   "example": "A three-email follow-up sequence reminded customers about the offer."
   },
   {
    "id": "w_d7eee0be",
@@ -930,6 +994,14 @@
    "example": "The brand works with several influencers."
   },
   {
+   "id": "w_0eef95dc",
+   "word": "influencer partnership",
+   "ipa": "/ˈɪnfluənsər ˈpɑːrtnərʃɪp/",
+   "meaning": "網紅合作",
+   "definition": "",
+   "example": "The brand announced an influencer partnership with a travel blogger."
+  },
+  {
    "id": "w_35f8b746",
    "word": "infrastructure",
    "ipa": "/ˈɪnfrəˌstrʌktʃər/",
@@ -1034,6 +1106,14 @@
    "example": "The company will launch the campaign and initiate a follow-up survey."
   },
   {
+   "id": "w_ade2f19b",
+   "word": "lead generation",
+   "ipa": "/liːd ˌdʒɛnəˈreɪʃən/",
+   "meaning": "開發潛在客戶",
+   "definition": "",
+   "example": "Free webinars are a popular tool for lead generation."
+  },
+  {
    "id": "w_98aaf6b7",
    "word": "lead nurturing",
    "ipa": "/liːd ˈnɜːrtʃərɪŋ/",
@@ -1080,6 +1160,14 @@
    "meaning": "市場滲透率",
    "definition": "",
    "example": "The brand has low market penetration in rural areas."
+  },
+  {
+   "id": "w_b4c226f1",
+   "word": "marketing campaign",
+   "ipa": "/ˈmɑːrkɪtɪŋ kæmˈpeɪn/",
+   "meaning": "行銷活動",
+   "definition": "",
+   "example": "The marketing campaign ran for six weeks across social media."
   },
   {
    "id": "w_fa8201ac",
@@ -1168,6 +1256,14 @@
    "meaning": "石油相關工作",
    "definition": "",
    "example": "Thousands of oil jobs were lost when prices collapsed."
+  },
+  {
+   "id": "w_bc0e88c1",
+   "word": "onboarding pipeline",
+   "ipa": "/ˈɑːnbɔːrdɪŋ ˈpaɪplaɪn/",
+   "meaning": "創作者導入流程",
+   "definition": "",
+   "example": "A simple onboarding pipeline helps new members get started quickly."
   },
   {
    "id": "w_e57362d5",
@@ -1338,6 +1434,14 @@
    "example": "Prisoners climbed onto the prison roof to protest the conditions inside the prison."
   },
   {
+   "id": "w_0ea8dec7",
+   "word": "product launch",
+   "ipa": "/ˈprɑːdʌkt lɔːntʃ/",
+   "meaning": "產品上市",
+   "definition": "",
+   "example": "The product launch drew hundreds of early customers."
+  },
+  {
    "id": "w_f3f80621",
    "word": "productive",
    "ipa": "/prəˈdʌktɪv/",
@@ -1376,6 +1480,14 @@
    "meaning": "推廣、鼓勵",
    "definition": "To encourage people to do, use, support, or become interested in something",
    "example": "The library organizes activities to promote reading among children."
+  },
+  {
+   "id": "w_6442cb81",
+   "word": "prospect",
+   "ipa": "/ˈprɑːspɛkt/",
+   "meaning": "潛在合作對象、潛在客戶",
+   "definition": "",
+   "example": "The sales team sent a follow-up message to each new prospect."
   },
   {
    "id": "w_26245adc",
@@ -1544,6 +1656,14 @@
    "meaning": "資安公司",
    "definition": "",
    "example": "A security firm tested the system for weaknesses."
+  },
+  {
+   "id": "w_1e237c3e",
+   "word": "segmentation",
+   "ipa": "/ˌsɛɡmɛnˈteɪʃən/",
+   "meaning": "分眾、受眾分群",
+   "definition": "",
+   "example": "Customer segmentation helps us send more relevant offers."
   },
   {
    "id": "w_7a9b93cf",
@@ -1770,6 +1890,14 @@
    "example": "Galaxy AI usage is expected to take off soon."
   },
   {
+   "id": "w_8c310b64",
+   "word": "target audience",
+   "ipa": "/ˈtɑːrɡɪt ˈɔːdiəns/",
+   "meaning": "目標受眾",
+   "definition": "",
+   "example": "The ad was designed for a young target audience."
+  },
+  {
    "id": "w_de94a342",
    "word": "team up",
    "ipa": "/tiːm ʌp/",
@@ -1824,6 +1952,14 @@
    "meaning": "臨界點",
    "definition": "",
    "example": "The scandal was the tipping point that ended public trust."
+  },
+  {
+   "id": "w_ee5b45fe",
+   "word": "touchpoint",
+   "ipa": "/ˈtʌtʃpɔɪnt/",
+   "meaning": "接觸點",
+   "definition": "",
+   "example": "Each customer touchpoint, from ads to support, shapes the brand image."
   },
   {
    "id": "w_b3f47da5",
