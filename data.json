@@ -66,6 +66,14 @@
    "example": "The site shows too many advertisements on every page."
   },
   {
+   "id": "w_5c1b9018",
+   "word": "affect",
+   "ipa": "/əˈfekt/",
+   "meaning": "影響",
+   "definition": "To influence or cause a change in something or someone",
+   "example": "Weather can affect flight schedules."
+  },
+  {
    "id": "w_8ecf325a",
    "word": "agile",
    "ipa": "/ˈædʒaɪl/",
@@ -88,6 +96,14 @@
    "meaning": "農業",
    "definition": "Farming",
    "example": "Agriculture is the main source of income in many rural areas."
+  },
+  {
+   "id": "w_141a9241",
+   "word": "AI",
+   "ipa": "/ˌeɪˈaɪ/",
+   "meaning": "人工智慧",
+   "definition": "Short for artificial intelligence: the ability of a computer or machine to perform tasks that normally require human intelligence",
+   "example": "The company invested heavily in AI research."
   },
   {
    "id": "w_7addbefd",
@@ -250,6 +266,14 @@
    "example": "A fallen tree is blocking the road."
   },
   {
+   "id": "w_c53d2f1a",
+   "word": "boom",
+   "ipa": "/buːm/",
+   "meaning": "熱潮、暴增",
+   "definition": "A sudden increase or rapid growth in something, especially business, activity, or popularity",
+   "example": "A boom in online shopping has changed how people buy goods."
+  },
+  {
    "id": "w_94ae3b34",
    "word": "bottleneck",
    "ipa": "/ˈbɑːtlnɛk/",
@@ -328,6 +352,14 @@
    "meaning": "執行、完成（任務）",
    "definition": "",
    "example": "The robot can carry out simple instructions like opening files or sending emails."
+  },
+  {
+   "id": "w_c6b6df0a",
+   "word": "chip",
+   "ipa": "/tʃɪp/",
+   "meaning": "晶片",
+   "definition": "A very small piece of semiconductor, especially in a computer, that contains extremely small electronic circuits",
+   "example": "The company produces chips for smartphones and tablets."
   },
   {
    "id": "w_4690d8ff",
@@ -416,6 +448,14 @@
    "meaning": "競爭",
    "definition": "To try to be more successful than someone or something else",
    "example": "It's difficult for a small shop to compete against the big supermarkets."
+  },
+  {
+   "id": "w_335c4c1e",
+   "word": "component",
+   "ipa": "/kəmˈpoʊ.nənt/",
+   "meaning": "零組件",
+   "definition": "A part or element of a larger whole, especially in a machine or system",
+   "example": "The battery is an important component of a smartphone."
   },
   {
    "id": "w_8efdc39d",
@@ -642,12 +682,28 @@
    "example": "A sudden die-off of fish worried the local fishermen."
   },
   {
+   "id": "w_c386834a",
+   "word": "disrupt",
+   "ipa": "/dɪsˈrʌpt/",
+   "meaning": "擾亂、使中斷",
+   "definition": "To cause problems or interrupt the normal process of something",
+   "example": "Power outages disrupted internet services in the city."
+  },
+  {
    "id": "w_8321502a",
    "word": "domain expert",
    "ipa": "/doʊˈmeɪn ˈɛkspɜːrt/",
    "meaning": "領域專家",
    "definition": "",
    "example": "We asked a domain expert to review the lesson plan."
+  },
+  {
+   "id": "w_411d876e",
+   "word": "drive up",
+   "ipa": "/draɪv ʌp/",
+   "meaning": "推高（價格、數字）",
+   "definition": "To cause something, especially prices, numbers, or levels, to increase quickly",
+   "example": "Fuel shortages drove up transportation costs."
   },
   {
    "id": "w_cb779ee6",
@@ -866,6 +922,14 @@
    "example": "Global emissions must fall quickly to slow warming."
   },
   {
+   "id": "w_fc89ff62",
+   "word": "global supply",
+   "ipa": "/ˈɡloʊ.bəl səˈplaɪ/",
+   "meaning": "全球供應",
+   "definition": "The total availability and distribution of goods or materials around the world",
+   "example": "Disasters can disrupt the global supply of essential materials."
+  },
+  {
    "id": "w_56b8e6bb",
    "word": "governance",
    "ipa": "/ˈɡʌvərnəns/",
@@ -980,10 +1044,10 @@
   {
    "id": "w_1984337f",
    "word": "industry",
-   "ipa": "/ˈɪndəstri/",
+   "ipa": "/ˈɪn.də.stri/",
    "meaning": "產業",
-   "definition": "",
-   "example": ""
+   "definition": "The production of goods or services in factories or businesses",
+   "example": "The technology industry is growing quickly because of AI development."
   },
   {
    "id": "w_85fde0b4",
@@ -1178,6 +1242,14 @@
    "example": "They shared a meaningful discussion about their future goals."
   },
   {
+   "id": "w_be60a5e3",
+   "word": "memory chip",
+   "ipa": "/ˈmem.ər.i tʃɪp/",
+   "meaning": "記憶體晶片",
+   "definition": "A small electronic part in a device that stores data and information",
+   "example": "New memory chips allow devices to run faster and store more data."
+  },
+  {
    "id": "w_4c623b36",
    "word": "mentor digital educators",
    "ipa": "/ˈmɛntɔːr ˈdɪdʒɪtl ˈɛdʒəˌkeɪtərz/",
@@ -1192,6 +1264,14 @@
    "meaning": "部長",
    "definition": "",
    "example": "The minister announced a new plan for public transport."
+  },
+  {
+   "id": "w_e6579067",
+   "word": "mitigate",
+   "ipa": "/ˈmɪt̬.ə.ɡeɪt/",
+   "meaning": "減輕、緩和",
+   "definition": "To make something less serious, harmful, or severe",
+   "example": "The company introduced new strategies to mitigate the impact of rising production costs."
   },
   {
    "id": "w_343be850",
@@ -1410,6 +1490,14 @@
    "example": "Buses and trucks are usually powered by diesel engines."
   },
   {
+   "id": "w_478b9a12",
+   "word": "power outages",
+   "ipa": "/ˈpaʊər ˈaʊtɪdʒɪz/",
+   "meaning": "停電",
+   "definition": "",
+   "example": "Heavy storms caused power outages across the region."
+  },
+  {
    "id": "w_7f55aa89",
    "word": "practical",
    "ipa": "/ˈpræk.tɪ.kəl/",
@@ -1424,6 +1512,14 @@
    "meaning": "「tell the boss」的專業說法",
    "definition": "",
    "example": "Please present a data-backed rationale for the budget increase."
+  },
+  {
+   "id": "w_3b4c0c65",
+   "word": "pressure",
+   "ipa": "/ˈpreʃ.ɚ/",
+   "meaning": "壓力",
+   "definition": "The force or influence that causes someone or something to change, act, or be affected in a certain way",
+   "example": "High demand puts pressure on product prices."
   },
   {
    "id": "w_3074d3d1",
@@ -1504,6 +1600,22 @@
    "meaning": "大力推動",
    "definition": "A strong effort or plan to introduce, promote, or expand something",
    "example": "The school made a strong push to improve attendance."
+  },
+  {
+   "id": "w_4ff18f00",
+   "word": "quality",
+   "ipa": "/ˈkwɑːləti/",
+   "meaning": "品質",
+   "definition": "",
+   "example": "The quality of the photos was much better than I expected."
+  },
+  {
+   "id": "w_657db1e0",
+   "word": "raise",
+   "ipa": "/reɪz/",
+   "meaning": "提高、舉起（需要受詞）",
+   "definition": "",
+   "example": "The company decided to raise its prices next month."
   },
   {
    "id": "w_c7a6343b",
@@ -1608,6 +1720,14 @@
    "meaning": "檢視、審查",
    "definition": "To think or talk about something again, in order to make changes to it or to make a decision about it",
    "example": "The committee is reviewing the current situation."
+  },
+  {
+   "id": "w_e5edb94e",
+   "word": "rise",
+   "ipa": "/raɪz/",
+   "meaning": "上升、增加（自己升起，不需要受詞）",
+   "definition": "",
+   "example": "Housing prices continue to rise every year."
   },
   {
    "id": "w_70fe19c1",
@@ -1720,6 +1840,14 @@
    "meaning": "放慢",
    "definition": "",
    "example": "The car slowed down when it reached the school."
+  },
+  {
+   "id": "w_9dd62d7f",
+   "word": "smart device",
+   "ipa": "/smɑːrt dɪˈvaɪs/",
+   "meaning": "智慧裝置",
+   "definition": "An electronic device that can connect to the internet and perform advanced tasks automatically using apps or artificial intelligence",
+   "example": "A smart device like a smartwatch can track your health and fitness."
   },
   {
    "id": "w_de3c7380",
@@ -1858,12 +1986,28 @@
    "example": "The team decided to sunset a project that no longer had users."
   },
   {
+   "id": "w_076df715",
+   "word": "supply",
+   "ipa": "/səˈplaɪ/",
+   "meaning": "供應、供給",
+   "definition": "The amount of something that is available for use, or the system of providing goods or materials",
+   "example": "The supply of clean water in the village is limited."
+  },
+  {
    "id": "w_5bdcd3c0",
    "word": "support",
    "ipa": "/səˈpɔːrt/",
    "meaning": "支持",
    "definition": "",
    "example": "Her family gave her strong support during the exam period."
+  },
+  {
+   "id": "w_c5b9c04c",
+   "word": "surge",
+   "ipa": "/sɝːdʒ/",
+   "meaning": "激增、飆升",
+   "definition": "To increase suddenly and strongly",
+   "example": "Prices of fuel have surged in recent months."
   },
   {
    "id": "w_0f810b7f",
@@ -1984,6 +2128,14 @@
    "meaning": "美軍",
    "definition": "",
    "example": "U.S. forces joined the training exercise last week."
+  },
+  {
+   "id": "w_bd92f4ce",
+   "word": "unavoidable",
+   "ipa": "/ˌʌn.əˈvɔɪ.də.bəl/",
+   "meaning": "無可避免的",
+   "definition": "Something that cannot be avoided or prevented",
+   "example": "Mistakes are unavoidable when learning something new."
   },
   {
    "id": "w_78bd637d",
@@ -2154,6 +2306,16 @@
     "用字"
    ],
    "note": "用字（更自然說法）"
+  },
+  {
+   "id": "e_6d0a37d2",
+   "wrong": "There are so many company.",
+   "correct": "There are so many companies.",
+   "types": [
+    "單複數",
+    "詞性"
+   ],
+   "note": "單複數（many 後面要接複數名詞，company 的複數是 companies，y 變 ies）"
   },
   {
    "id": "e_7d9e331a",
@@ -2686,6 +2848,12 @@
    "hint": ""
   },
   {
+   "id": "p_d55507e7",
+   "word": "driven",
+   "ipa": "/ˈdrɪv.ən/",
+   "hint": ""
+  },
+  {
    "id": "p_5273df4f",
    "word": "Efficiently",
    "ipa": "/ɪˈfɪʃəntli/",
@@ -2716,6 +2884,12 @@
    "hint": "ehg zi Bi ShuN"
   },
   {
+   "id": "p_43505540",
+   "word": "fuel",
+   "ipa": "/ˈfjuː.əl/",
+   "hint": ""
+  },
+  {
    "id": "p_8aeff27d",
    "word": "further",
    "ipa": "/ˈfɜːrðər/",
@@ -2742,7 +2916,7 @@
   {
    "id": "p_1984337f",
    "word": "industry",
-   "ipa": "/ˈɪndəstri/",
+   "ipa": "/ˈɪn.də.stri/",
    "hint": ""
   },
   {
@@ -2863,6 +3037,18 @@
    "id": "p_c045670a",
    "word": "quarterly audit",
    "ipa": "/ˈkwɔːrtərli ˈɔːdɪt/",
+   "hint": ""
+  },
+  {
+   "id": "p_657db1e0",
+   "word": "raise",
+   "ipa": "/reɪz/",
+   "hint": ""
+  },
+  {
+   "id": "p_e5edb94e",
+   "word": "rise",
+   "ipa": "/raɪz/",
    "hint": ""
   },
   {
