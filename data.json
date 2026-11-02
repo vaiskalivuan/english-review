@@ -18,6 +18,14 @@
    "example": "The soil absorbs rainwater after heavy rainfall."
   },
   {
+   "id": "w_d0da2a38",
+   "word": "accommodate",
+   "ipa": "/əˈkɑː.mə.deɪt/",
+   "meaning": "容納、提供空間給",
+   "definition": "To provide space or room for someone or something; to be able to hold or fit a number of people or things",
+   "example": "The restaurant can accommodate large groups for special events."
+  },
+  {
    "id": "w_1931fe09",
    "word": "accretion",
    "ipa": "/əˈkriːʃən/",
@@ -144,6 +152,14 @@
    "meaning": "分配、撥出（經費、資源）",
    "definition": "To officially give something, especially money, time, or resources, for a particular purpose",
    "example": "The city has allocated funds to repair damaged roads and bridges."
+  },
+  {
+   "id": "w_c9c89717",
+   "word": "ambience",
+   "ipa": "/ˌɑːm.biˈɑːns/",
+   "meaning": "氛圍",
+   "definition": "The character, feeling, or mood of a place",
+   "example": "The hotel has a cozy ambience that makes guests want to stay longer."
   },
   {
    "id": "w_e7b01765",
@@ -344,6 +360,14 @@
    "meaning": "二氧化碳",
    "definition": "A colorless gas (CO₂) found naturally in the air and produced when fuels are burned",
    "example": "Too much carbon dioxide can harm the environment."
+  },
+  {
+   "id": "w_a063e117",
+   "word": "carriage",
+   "ipa": "/ˈker.ɪdʒ/",
+   "meaning": "火車車廂",
+   "definition": "A separate section or compartment of a train where passengers sit",
+   "example": "Each carriage has comfortable seats and large windows."
   },
   {
    "id": "w_1d1e75bb",
@@ -834,6 +858,14 @@
    "example": "The museum opened a new photography exhibition."
   },
   {
+   "id": "w_8b112ee8",
+   "word": "exterior",
+   "ipa": "/ɪkˈstɪr.i.ɚ/",
+   "meaning": "外觀、外部",
+   "definition": "The outside part of something",
+   "example": "The hotel has a glass exterior that reflects the city lights at night."
+  },
+  {
    "id": "w_89b1efec",
    "word": "external party",
    "ipa": "/ɪkˈstɜːrnəl ˈpɑːrti/",
@@ -864,6 +896,14 @@
    "meaning": "落空、沒成功",
    "definition": "",
    "example": "Our holiday plans fell through because of the storm."
+  },
+  {
+   "id": "w_4b7615dc",
+   "word": "feature",
+   "ipa": "/ˈfiː.tʃɚ/",
+   "meaning": "以…為特色、包含",
+   "definition": "To include something as an important part",
+   "example": "The tour features guided visits to historic temples and museums."
   },
   {
    "id": "w_9c15cdad",
@@ -1098,6 +1138,14 @@
    "example": "The firm protects its intellectual property with patents."
   },
   {
+   "id": "w_cfa582c0",
+   "word": "interior",
+   "ipa": "/ɪnˈtɪr.i.ɚ/",
+   "meaning": "內部、室內",
+   "definition": "The inside part of something",
+   "example": "The café has a warm and cozy interior that attracts many visitors."
+  },
+  {
    "id": "w_a69afe5d",
    "word": "introduce",
    "ipa": "/ˌɪntrəˈduːs/",
@@ -1256,6 +1304,14 @@
    "meaning": "「help creators」的專業說法",
    "definition": "",
    "example": "Her role is to mentor digital educators who are new to teaching online."
+  },
+  {
+   "id": "w_7f8b7a14",
+   "word": "Michelin-starred",
+   "ipa": "/ˌmɪtʃ.ə.lɪn ˈstɑːrd/",
+   "meaning": "獲米其林星級的",
+   "definition": "Officially awarded one or more stars by the Michelin Guide to recognize very high-quality food or restaurants",
+   "example": ""
   },
   {
    "id": "w_be786cc8",
@@ -1754,12 +1810,28 @@
    "example": "Scalability matters if the app grows from a thousand to a million users."
   },
   {
+   "id": "w_3a1e3fa7",
+   "word": "scenery",
+   "ipa": "/ˈsiːnəri/",
+   "meaning": "景色、風景",
+   "definition": "",
+   "example": "The scenery along the coast was breathtaking."
+  },
+  {
    "id": "w_7845ea5d",
    "word": "scenography",
    "ipa": "/siːˈnɑːɡrəfi/",
    "meaning": "舞台美術設計",
    "definition": "",
    "example": "The play was praised for its striking scenography."
+  },
+  {
+   "id": "w_64fd6383",
+   "word": "seasonal",
+   "ipa": "/ˈsiː.zən.əl/",
+   "meaning": "季節性的",
+   "definition": "Related to or depending on a particular season of the year",
+   "example": "Many hotels offer seasonal discounts during the winter."
   },
   {
    "id": "w_d015cc46",
@@ -1784,6 +1856,14 @@
    "meaning": "分眾、受眾分群",
    "definition": "",
    "example": "Customer segmentation helps us send more relevant offers."
+  },
+  {
+   "id": "w_863a04dd",
+   "word": "sell out",
+   "ipa": "/sɛl aʊt/",
+   "meaning": "賣光",
+   "definition": "",
+   "example": "Concert tickets sell out quickly."
   },
   {
    "id": "w_7a9b93cf",
@@ -1856,6 +1936,14 @@
    "meaning": "領域專家",
    "definition": "",
    "example": "We asked an SME to review the technical content."
+  },
+  {
+   "id": "w_90bf2b2c",
+   "word": "soak up",
+   "ipa": "/soʊk ʌp/",
+   "meaning": "沉浸、盡情享受（氣氛、經驗）",
+   "definition": "",
+   "example": "I like to soak up the quiet feeling of early mornings."
   },
   {
    "id": "w_0005b9f9",
@@ -2026,6 +2114,14 @@
    "example": "We tailor each lesson to the student's goals."
   },
   {
+   "id": "w_0c41c81d",
+   "word": "take in",
+   "ipa": "/teɪk ɪn/",
+   "meaning": "欣賞、看進去",
+   "definition": "",
+   "example": "Tourists often stop here to take in the mountain views."
+  },
+  {
    "id": "w_7c0ed89a",
    "word": "take off",
    "ipa": "/teɪk ɔːf/",
@@ -2114,6 +2210,14 @@
    "example": "The government issued a travel warning because of the storm."
   },
   {
+   "id": "w_1f6d9f4e",
+   "word": "treat",
+   "ipa": "/triːt/",
+   "meaning": "招待、款待",
+   "definition": "To give someone something enjoyable or special, often as a kind gift or pleasant experience",
+   "example": "Travelers are treated to free local snacks at every stop."
+  },
+  {
    "id": "w_d52e7e89",
    "word": "turn to",
    "ipa": "/tɜːrn tuː/",
@@ -2136,6 +2240,14 @@
    "meaning": "無可避免的",
    "definition": "Something that cannot be avoided or prevented",
    "example": "Mistakes are unavoidable when learning something new."
+  },
+  {
+   "id": "w_58037c00",
+   "word": "unique",
+   "ipa": "/juːˈniːk/",
+   "meaning": "獨特的",
+   "definition": "Being the only one of its kind; unlike anything else; special or different from others",
+   "example": "This café has a unique design that attracts many visitors."
   },
   {
    "id": "w_78bd637d",
@@ -2232,6 +2344,22 @@
    "meaning": "警覺的，非常小心、保持留意，才能發現危險或問題",
    "definition": "",
    "example": "Drivers should stay vigilant on icy roads."
+  },
+  {
+   "id": "w_cd17c1b3",
+   "word": "worthwhile",
+   "ipa": "/ˌwɝːθˈwaɪl/",
+   "meaning": "值得的",
+   "definition": "Worth the time, money, effort, or attention spent",
+   "example": "The long trip was tiring, but the view made it worthwhile."
+  },
+  {
+   "id": "w_bea79731",
+   "word": "wrap up",
+   "ipa": "/ræp ʌp/",
+   "meaning": "結束、收尾",
+   "definition": "",
+   "example": "The host thanked the guests to wrap up the event."
   }
  ],
  "errors": [
@@ -2693,7 +2821,7 @@
   },
   {
    "id": "p_5ff1bc70",
-   "word": "Adverbs",
+   "word": "adverbs",
    "ipa": "/ˈædvɜːrbz/",
    "hint": ""
   },
@@ -2729,7 +2857,7 @@
   },
   {
    "id": "p_7b231a50",
-   "word": "Available",
+   "word": "available",
    "ipa": "/əˈveɪləbəl/",
    "hint": ""
   },
@@ -2884,6 +3012,12 @@
    "hint": "ehg zi Bi ShuN"
   },
   {
+   "id": "p_af66cd59",
+   "word": "experiences",
+   "ipa": "/ɪkˈspɪriənsɪz/",
+   "hint": ""
+  },
+  {
    "id": "p_43505540",
    "word": "fuel",
    "ipa": "/ˈfjuː.əl/",
@@ -2905,6 +3039,12 @@
    "id": "p_56b8e6bb",
    "word": "governance",
    "ipa": "/ˈɡʌvərnəns/",
+   "hint": ""
+  },
+  {
+   "id": "p_f8122851",
+   "word": "guests",
+   "ipa": "/ɡɛsts/",
    "hint": ""
   },
   {
@@ -2992,6 +3132,12 @@
    "hint": ""
   },
   {
+   "id": "p_72ccfda0",
+   "word": "pleasant",
+   "ipa": "/ˈplɛzənt/",
+   "hint": ""
+  },
+  {
    "id": "p_4c5fd84e",
    "word": "politics",
    "ipa": "/ˈpɑːlətɪks/",
@@ -3011,7 +3157,7 @@
   },
   {
    "id": "p_fdb6c569",
-   "word": "Prepositions",
+   "word": "prepositions",
    "ipa": "/ˌprepəˈzɪʃənz/",
    "hint": ""
   },
@@ -3046,6 +3192,12 @@
    "hint": ""
   },
   {
+   "id": "p_373bdb26",
+   "word": "ridden",
+   "ipa": "/ˈrɪdən/",
+   "hint": ""
+  },
+  {
    "id": "p_e5edb94e",
    "word": "rise",
    "ipa": "/raɪz/",
@@ -3073,6 +3225,12 @@
    "id": "p_abc1350f",
    "word": "said",
    "ipa": "/sɛd/",
+   "hint": ""
+  },
+  {
+   "id": "p_3a1e3fa7",
+   "word": "scenery",
+   "ipa": "/ˈsiːnəri/",
    "hint": ""
   },
   {
