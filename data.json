@@ -722,6 +722,14 @@
    "example": "We asked a domain expert to review the lesson plan."
   },
   {
+   "id": "w_ff99812e",
+   "word": "doomscrolling",
+   "ipa": "/ˈduːmˌskroʊlɪŋ/",
+   "meaning": "滑末日新聞（一直滑負面資訊停不下來）",
+   "definition": "",
+   "example": "Doomscrolling before bed made it hard for her to fall asleep."
+  },
+  {
    "id": "w_411d876e",
    "word": "drive up",
    "ipa": "/draɪv ʌp/",
@@ -1378,6 +1386,14 @@
    "example": "The river flows naturally through the valley."
   },
   {
+   "id": "w_31ea9b92",
+   "word": "nostalgic",
+   "ipa": "/nəˈstældʒɪk/",
+   "meaning": "懷舊的",
+   "definition": "",
+   "example": "Old photos made him feel nostalgic about his school days."
+  },
+  {
    "id": "w_dc6960bc",
    "word": "obsolete",
    "ipa": "/ˌɑːbsəˈliːt/",
@@ -1888,6 +1904,14 @@
    "meaning": "轉變",
    "definition": "A change from one situation, method, or way of doing something to another",
    "example": "The company announced a shift from paper documents to digital files."
+  },
+  {
+   "id": "w_d897ac15",
+   "word": "siesta time",
+   "ipa": "/siˈɛstə taɪm/",
+   "meaning": "午睡時間",
+   "definition": "",
+   "example": "Many shops in the village close during siesta time in the afternoon."
   },
   {
    "id": "w_639f520f",
@@ -2436,6 +2460,25 @@
    "note": "用字（更自然說法）"
   },
   {
+   "id": "e_c42f56af",
+   "wrong": "I can use only 10 minutes in a day of my phone.",
+   "correct": "I can only use my phone for 10 minutes a day.",
+   "types": [
+    "介系詞",
+    "語序"
+   ],
+   "note": "語序（only 放在動詞 use 前面，phone 是 use 的受詞，不是 of my phone）、介系詞（for 10 minutes）"
+  },
+  {
+   "id": "e_0f559769",
+   "wrong": "It makes me feel exciting.",
+   "correct": "It makes me feel excited.",
+   "types": [
+    "詞性"
+   ],
+   "note": "詞性（-ed／-ing 形容詞，形容人的感受用 -ed，形容事物令人興奮才用 -ing）。9/17 的 `I feel annoying` 也是這類，第二次"
+  },
+  {
    "id": "e_6d0a37d2",
    "wrong": "There are so many company.",
    "correct": "There are so many companies.",
@@ -2820,6 +2863,12 @@
    "hint": ""
   },
   {
+   "id": "p_4d4f4954",
+   "word": "Adjectives",
+   "ipa": "/ˈædʒ.ɪk.tɪvz/",
+   "hint": ""
+  },
+  {
    "id": "p_5ff1bc70",
    "word": "adverbs",
    "ipa": "/ˈædvɜːrbz/",
@@ -2874,6 +2923,12 @@
    "hint": ""
   },
   {
+   "id": "p_f2a15b88",
+   "word": "Captivated",
+   "ipa": "/ˈkæp.tɪ.veɪ.tɪd/",
+   "hint": ""
+  },
+  {
    "id": "p_fbc259d1",
    "word": "Capture",
    "ipa": "/ˈkæptʃər/",
@@ -2919,6 +2974,12 @@
    "id": "p_faa75322",
    "word": "committee",
    "ipa": "/kəˈmɪti/",
+   "hint": ""
+  },
+  {
+   "id": "p_e08949f7",
+   "word": "Comparative",
+   "ipa": "/kəmˈpær.ə.tɪv/",
    "hint": ""
   },
   {
@@ -3261,6 +3322,12 @@
    "id": "p_31e10e63",
    "word": "strategy",
    "ipa": "/ˈstræt̬.ə.dʒi/",
+   "hint": ""
+  },
+  {
+   "id": "p_81d19fe0",
+   "word": "Syllable",
+   "ipa": "/ˈsɪl.ə.bəl/",
    "hint": ""
   },
   {
