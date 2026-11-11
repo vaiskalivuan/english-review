@@ -978,6 +978,14 @@
    "example": "Disasters can disrupt the global supply of essential materials."
   },
   {
+   "id": "w_4f703eaa",
+   "word": "go-to",
+   "ipa": "/ˈɡoʊ tuː/",
+   "meaning": "首選的、最可靠的",
+   "definition": "",
+   "example": "Her go-to snack during long meetings is dried fruit."
+  },
+  {
    "id": "w_56b8e6bb",
    "word": "governance",
    "ipa": "/ˈɡʌvərnəns/",
@@ -1080,6 +1088,14 @@
    "meaning": "「find new opportunities」的專業說法",
    "definition": "",
    "example": "The team met to identify strategic growth vectors for next year."
+  },
+  {
+   "id": "w_6a47dc3c",
+   "word": "impulsive",
+   "ipa": "/ɪmˈpʌlsɪv/",
+   "meaning": "衝動的",
+   "definition": "",
+   "example": "An impulsive purchase left him with a closet full of unused gadgets."
   },
   {
    "id": "w_081adcd4",
@@ -1658,6 +1674,14 @@
    "example": "The sales team sent a follow-up message to each new prospect."
   },
   {
+   "id": "w_211639bb",
+   "word": "prudent",
+   "ipa": "/ˈpruːdnt/",
+   "meaning": "審慎的",
+   "definition": "",
+   "example": "It is prudent to save some money for emergencies."
+  },
+  {
    "id": "w_26245adc",
    "word": "public awareness",
    "ipa": "/ˈpʌb.lɪk əˈwer.nəs/",
@@ -1936,6 +1960,14 @@
    "meaning": "默讀",
    "definition": "The activity of reading a text in one's mind without pronouncing the words aloud or moving the lips",
    "example": "The teacher gave the students twenty minutes for silent reading."
+  },
+  {
+   "id": "w_82553f23",
+   "word": "sleep on sth",
+   "ipa": "/sliːp ɑːn ˈsʌmθɪŋ/",
+   "meaning": "把決定放一晚再想",
+   "definition": "",
+   "example": "Let me sleep on it and give you my answer tomorrow."
   },
   {
    "id": "w_2185c48b",
@@ -2460,6 +2492,46 @@
    "note": "用字（更自然說法）"
   },
   {
+   "id": "e_2e8a862a",
+   "wrong": "If I want to buy something, at least I will put it into my cart overnight.",
+   "correct": "Whenever I want to buy something online, I try to sleep on it with the items in my cart.",
+   "types": [
+    "用字",
+    "語序"
+   ],
+   "note": "用字／句型（中文直譯。「一想買就…」用 whenever，「放一晚再決定」用 sleep on it，不要 at least ... overnight）"
+  },
+  {
+   "id": "e_5758fe43",
+   "wrong": "McDonald's faces setback about their home because the customers are cautious about their spending money.",
+   "correct": "McDonald's is facing setbacks as customers become more cautious with their spending.",
+   "types": [
+    "時態",
+    "單複數",
+    "介系詞",
+    "用字"
+   ],
+   "note": "時態（描述最近正在發生的趨勢用 is facing）、單複數（setback → setbacks）、用字（about their home 不通順，刪掉）、介系詞（cautious with）、詞形（spending money → spending）"
+  },
+  {
+   "id": "e_34645e55",
+   "wrong": "I planned a healthy check recently.",
+   "correct": "I recently planned a general health checkup.",
+   "types": [
+    "詞性"
+   ],
+   "note": ""
+  },
+  {
+   "id": "e_8ce4c76e",
+   "wrong": "I regularly do the yoga after my work.",
+   "correct": "I regularly do yoga after work.",
+   "types": [
+    "冠詞"
+   ],
+   "note": "冠詞（do yoga 這類活動不加 the；after work 是固定說法，不加 my）"
+  },
+  {
    "id": "e_c42f56af",
    "wrong": "I can use only 10 minutes in a day of my phone.",
    "correct": "I can only use my phone for 10 minutes a day.",
@@ -2965,6 +3037,12 @@
    "hint": ""
   },
   {
+   "id": "p_422fba96",
+   "word": "clearer",
+   "ipa": "/ˈklɪrər/",
+   "hint": ""
+  },
+  {
    "id": "p_27eddd83",
    "word": "Clearly",
    "ipa": "/ˈklɪrli/",
@@ -2974,6 +3052,12 @@
    "id": "p_faa75322",
    "word": "committee",
    "ipa": "/kəˈmɪti/",
+   "hint": ""
+  },
+  {
+   "id": "p_71b21161",
+   "word": "company",
+   "ipa": "/ˈkʌmpəni/",
    "hint": ""
   },
   {
@@ -3289,9 +3373,21 @@
    "hint": ""
   },
   {
+   "id": "p_59248c4d",
+   "word": "sales",
+   "ipa": "/seɪlz/",
+   "hint": ""
+  },
+  {
    "id": "p_3a1e3fa7",
    "word": "scenery",
    "ipa": "/ˈsiːnəri/",
+   "hint": ""
+  },
+  {
+   "id": "p_d6c82201",
+   "word": "sets",
+   "ipa": "/sɛts/",
    "hint": ""
   },
   {
@@ -3325,6 +3421,12 @@
    "hint": ""
   },
   {
+   "id": "p_53a5687c",
+   "word": "success",
+   "ipa": "/səkˈsɛs/",
+   "hint": ""
+  },
+  {
    "id": "p_81d19fe0",
    "word": "Syllable",
    "ipa": "/ˈsɪl.ə.bəl/",
@@ -3334,6 +3436,12 @@
    "id": "p_7fbb727d",
    "word": "Task",
    "ipa": "/tæsk/",
+   "hint": ""
+  },
+  {
+   "id": "p_270fdbaa",
+   "word": "taste",
+   "ipa": "/teɪst/",
    "hint": ""
   },
   {
